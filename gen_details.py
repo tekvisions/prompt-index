@@ -9,7 +9,7 @@ import os
 import shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://prompt-index-gamma.vercel.app"
+SITE_URL = "https://prompt.kymatalabs.com"
 P_DIR = os.path.join(HERE, "p")
 
 
