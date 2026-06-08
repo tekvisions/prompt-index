@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Prompt Index — every prompt-engineering resource, ranked by momentum</title>
+<meta name="description" content="A living index of prompt-engineering resources — curated prompt collections, system prompts, optimizers, frameworks and guides — ranked daily by momentum from live GitHub signals.">
+<link rel="canonical" href="https://prompt-index-gamma.vercel.app/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="prompt engineering, awesome prompts, system prompts, chatgpt prompts, prompt library, prompt optimization, llm prompts, prompt templates, prompt frameworks">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://prompt-index-gamma.vercel.app/">
+<meta property="og:title" content="The Prompt Index — every prompt-engineering resource, ranked by momentum">
+<meta property="og:description" content="A living index of prompt collections, system prompts, optimizers & guides, ranked daily from live GitHub signals.">
+<meta property="og:image" content="https://prompt-index-gamma.vercel.app/og.png">
+<meta property="og:site_name" content="The Prompt Index">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Prompt Index — every prompt-engineering resource">
+<meta name="twitter:description" content="A living index of prompt-engineering resources, ranked daily by momentum.">
+<meta name="twitter:image" content="https://prompt-index-gamma.vercel.app/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="The Prompt Index" href="/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{ "@context": "https://schema.org", "@type": "WebSite", "name": "The Prompt Index",
+  "url": "https://prompt-index-gamma.vercel.app/",
+  "description": "A living index of prompt-engineering resources, ranked by momentum from live GitHub signals.",
+  "publisher": { "@type": "Organization", "name": "The Prompt Index" } }
+</script>
+</head>
+<body>
+<header><div class="wrap head-row">
+  <div class="brand disp"><span class="sq"></span>THE&nbsp;PROMPT&nbsp;INDEX</div>
+  <div class="head-actions">
+    <a href="/rss.xml">RSS</a><a href="/llms.txt">llms.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">★ Recomputed daily from live GitHub signals</div>
+    <h1>The best <mark>prompts</mark> are version-controlled.</h1>
+    <p class="lede">A living index of prompt-engineering resources — curated collections, leaked system prompts, optimizers, frameworks and guides — ranked by momentum, not vibes.</p>
+    <div class="stats">
+      <div class="stat"><div class="num disp" id="s-count">0</div><div class="lbl">resources</div></div>
+      <div class="stat"><div class="num disp" id="s-cats">0</div><div class="lbl">categories</div></div>
+      <div class="stat"><div class="num disp" id="s-top">—</div><div class="lbl">top momentum</div></div>
+    </div>
+  </div></section>
+
+  <section class="toolbar"><div class="wrap">
+    <div class="search-row">
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="search prompt resources, owners, topics…" autocomplete="off" spellcheck="false">
+      </label>
+      <div class="sort" id="sort">
+        <button data-sort="momentum" class="active">Momentum</button>
+        <button data-sort="stars">Stars</button>
+        <button data-sort="new">Newest</button>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div></section>
+
+  <div class="wrap">
+    <div class="meta-line" id="metaline">loading the index…</div>
+    <div class="grid" id="grid"></div>
+  </div>
+</main>
+
+<footer><div class="wrap foot-row">
+  <div>
+    <div class="blurb">The Prompt Index is a self-updating zine. Every day a GitHub Action recomputes each resource's momentum — stars, push-recency, and how fast it's rising — and republishes. No editors, no hot takes, just the signal.</div>
+    <div class="updated" id="foot-updated"></div>
+  </div>
+  <div class="links">
+    <a href="/sitemap.xml">Sitemap</a><a href="/rss.xml">RSS feed</a>
+    <a href="/llms.txt">llms.txt</a><a href="https://github.com/tekvisions" target="_blank" rel="noopener">Built by tekvisions →</a>
+  </div>
+</div></footer>
+
+<script src="/app.js"></script>
+</body>
+</html>

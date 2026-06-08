@@ -1,0 +1,49 @@
+name: Update The Prompt Index
+
+on:
+  schedule:
+    - cron: "59 8 * * *"   # 08:59 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_PROJECT: prompt-index
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow (for og.png)
+        run: pip install --quiet Pillow
+      - name: Recompute data.json from GitHub signals
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build_data.py
+      - name: Regenerate detail pages + OG card
+        run: |
+          python gen_details.py
+          python gen_og.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "prompt-index-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json sitemap.xml rss.xml robots.txt llms.txt og.png p/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: daily prompt-index refresh ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No data change."
+          fi
+      - name: Deploy to Vercel
+        if: ${{ env.VERCEL_TOKEN != '' }}
+        run: python deploy.py
