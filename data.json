@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-08T04:27:45.609393+00:00",
+ "generated_at": "2026-06-08T04:30:07.352514+00:00",
  "count": 132,
  "categories": [
   {
@@ -8,19 +8,19 @@
   },
   {
    "name": "Prompt Packs",
-   "count": 24
+   "count": 25
+  },
+  {
+   "name": "Collections",
+   "count": 18
   },
   {
    "name": "System Prompts",
-   "count": 20
+   "count": 18
   },
   {
    "name": "Guides & Courses",
    "count": 18
-  },
-  {
-   "name": "Collections",
-   "count": 17
   },
   {
    "name": "Image & Multimodal",
@@ -109,7 +109,7 @@
    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
    "owner": "EvoLinkAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/253253881?v=4",
-   "stars": 16332,
+   "stars": 16333,
    "forks": 1654,
    "open_issues": 4,
    "language": "Python",
@@ -358,7 +358,7 @@
     "prompt-toolkit",
     "prompt-tuning"
    ],
-   "category": "Optimization & Tooling",
+   "category": "System Prompts",
    "momentum": 78,
    "rank": 9
   },
@@ -579,7 +579,7 @@
     "prompt-engineering",
     "tools"
    ],
-   "category": "System Prompts",
+   "category": "Collections",
    "momentum": 75,
    "rank": 15
   },
@@ -2964,7 +2964,7 @@
     "llm-security",
     "prompt"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 38,
    "rank": 92
   },
@@ -3270,7 +3270,7 @@
     "pretrained-language-model",
     "prompt-tuning"
    ],
-   "category": "System Prompts",
+   "category": "Optimization & Tooling",
    "momentum": 35,
    "rank": 103
   },
