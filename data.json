@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-08T12:28:38.057933+00:00",
+ "generated_at": "2026-06-08T12:57:14.479543+00:00",
  "count": 132,
  "categories": [
   {
@@ -7,20 +7,20 @@
    "count": 30
   },
   {
-   "name": "Prompt Packs",
-   "count": 24
+   "name": "System Prompts",
+   "count": 23
   },
   {
-   "name": "System Prompts",
-   "count": 19
+   "name": "Prompt Packs",
+   "count": 22
   },
   {
    "name": "Collections",
-   "count": 18
+   "count": 17
   },
   {
    "name": "Guides & Courses",
-   "count": 18
+   "count": 17
   },
   {
    "name": "Image & Multimodal",
@@ -39,7 +39,7 @@
    "url": "https://github.com/f/prompts.chat",
    "owner": "f",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-   "stars": 163448,
+   "stars": 163449,
    "forks": 21227,
    "open_issues": 50,
    "language": "HTML",
@@ -78,8 +78,8 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 70005,
-   "forks": 3946,
+   "stars": 70012,
+   "forks": 3947,
    "open_issues": 276,
    "language": "JavaScript",
    "license": "MIT",
@@ -109,7 +109,7 @@
    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
    "owner": "EvoLinkAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/253253881?v=4",
-   "stars": 16373,
+   "stars": 16375,
    "forks": 1655,
    "open_issues": 4,
    "language": "Python",
@@ -191,8 +191,8 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 41415,
-   "forks": 6861,
+   "stars": 41417,
+   "forks": 6862,
    "open_issues": 26,
    "language": "JavaScript",
    "license": "CC0-1.0",
@@ -232,7 +232,7 @@
    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
    "owner": "freestylefly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43960064?v=4",
-   "stars": 7136,
+   "stars": 7137,
    "forks": 952,
    "open_issues": 5,
    "language": "JavaScript",
@@ -299,7 +299,7 @@
    "url": "https://github.com/linshenkx/prompt-optimizer",
    "owner": "linshenkx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32978552?v=4",
-   "stars": 30598,
+   "stars": 30599,
    "forks": 3569,
    "open_issues": 15,
    "language": "TypeScript",
@@ -371,10 +371,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
    "stars": 19452,
    "forks": 1500,
-   "open_issues": 165,
+   "open_issues": 168,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-08T11:52:05Z",
+   "pushed_at": "2026-06-08T12:50:04Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -403,8 +403,8 @@
    "url": "https://github.com/chopratejas/headroom",
    "owner": "chopratejas",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3607994?v=4",
-   "stars": 17679,
-   "forks": 1129,
+   "stars": 17704,
+   "forks": 1132,
    "open_issues": 204,
    "language": "Python",
    "license": "Apache-2.0",
@@ -478,7 +478,7 @@
    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
    "owner": "YouMind-OpenLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
-   "stars": 12435,
+   "stars": 12434,
    "forks": 1353,
    "open_issues": 0,
    "language": "TypeScript",
@@ -688,7 +688,7 @@
     "prompt-engineering",
     "prompts"
    ],
-   "category": "Prompt Packs",
+   "category": "System Prompts",
    "momentum": 73,
    "rank": 19
   },
@@ -733,7 +733,7 @@
    "url": "https://github.com/EvoMap/evolver",
    "owner": "EvoMap",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263044117?v=4",
-   "stars": 8314,
+   "stars": 8330,
    "forks": 794,
    "open_issues": 4,
    "language": "JavaScript",
@@ -869,7 +869,7 @@
    "url": "https://github.com/dottxt-ai/outlines",
    "owner": "dottxt-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/142257755?v=4",
-   "stars": 13943,
+   "stars": 13944,
    "forks": 704,
    "open_issues": 108,
    "language": "Python",
@@ -898,7 +898,7 @@
    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
    "owner": "ZeroLu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
-   "stars": 10069,
+   "stars": 10068,
    "forks": 852,
    "open_issues": 7,
    "language": "",
@@ -971,7 +971,7 @@
    "open_issues": 82,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-06-08T12:12:23Z",
+   "pushed_at": "2026-06-08T12:47:21Z",
    "created_at": "2024-02-21T10:34:33Z",
    "description": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows",
    "topics": [
@@ -1151,7 +1151,7 @@
     "prompt-engineering",
     "rag"
    ],
-   "category": "Guides & Courses",
+   "category": "System Prompts",
    "momentum": 68,
    "rank": 33
   },
@@ -1162,7 +1162,7 @@
    "url": "https://github.com/ykdojo/claude-code-tips",
    "owner": "ykdojo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1811651?v=4",
-   "stars": 8643,
+   "stars": 8646,
    "forks": 654,
    "open_issues": 8,
    "language": "JavaScript",
@@ -1471,7 +1471,7 @@
     "prompt-engineering",
     "prompt-learning"
    ],
-   "category": "Collections",
+   "category": "System Prompts",
    "momentum": 65,
    "rank": 43
   },
@@ -1629,7 +1629,7 @@
    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
    "owner": "anthropics",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
-   "stars": 36220,
+   "stars": 36221,
    "forks": 3935,
    "open_issues": 65,
    "language": "Jupyter Notebook",
@@ -2317,7 +2317,7 @@
    "url": "https://github.com/BrightPool/udemy-prompt-engineering-course",
    "owner": "BrightPool",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130747473?v=4",
-   "stars": 701,
+   "stars": 702,
    "forks": 504,
    "open_issues": 1,
    "language": "Jupyter Notebook",
@@ -2472,7 +2472,7 @@
     "python",
     "vector-search"
    ],
-   "category": "Prompt Packs",
+   "category": "System Prompts",
    "momentum": 48,
    "rank": 76
   },
