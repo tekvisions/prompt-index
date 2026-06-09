@@ -121,3 +121,21 @@ footer .links a:hover { border-color: var(--coral); }
 
 @media (max-width: 640px) { .wrap { padding: 0 16px; } .grid { grid-template-columns: 1fr; } }
 @media (prefers-reduced-motion: reduce) { .card { opacity: 1; transition: none; } }
+
+/* ── connective tissue (kstrip) + GEO about/faq — retrofit ── */
+.kstrip { position: relative; z-index: 60; background: var(--ink); color: var(--bg);
+  font-family: ui-monospace, "IBM Plex Mono", "Martian Mono", monospace; font-size: 10.5px; letter-spacing: .04em; }
+.kstrip .wrap { display: flex; align-items: center; gap: 16px; padding: 7px 28px; flex-wrap: wrap; }
+.kstrip a { color: var(--bg); text-decoration: none; opacity: .82; transition: opacity .2s; display: inline-flex; align-items: center; gap: 6px; }
+.kstrip a:hover { opacity: 1; }
+.kstrip .dot { width: 7px; height: 7px; background: var(--accent); border-radius: 1px; display: inline-block; }
+.kstrip .sep { opacity: .3; }
+.kstrip .grow { flex: 1; }
+.about { border-top: 1px solid var(--line2); padding: 48px 0 8px; }
+.about h2 { font-weight: 800; font-size: clamp(22px, 3vw, 30px); letter-spacing: -.02em; margin-bottom: 8px; }
+.about .intro { color: var(--muted); max-width: 70ch; font-size: 14px; line-height: 1.7; margin-bottom: 28px; }
+.faq { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; }
+.faq .q { background: var(--surface); border: 1px solid var(--line2); border-radius: 6px; padding: 20px 22px; }
+.faq .q h3 { font-weight: 700; font-size: 15px; margin-bottom: 8px; color: var(--ink); }
+.faq .q p { font-size: 12.5px; color: var(--muted); line-height: 1.65; }
+@media (max-width: 640px) { .kstrip .wrap { padding: 7px 18px; } }
