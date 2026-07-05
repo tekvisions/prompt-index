@@ -3,48 +3,48 @@
 > The living index of prompt-engineering resources — curated prompt collections,
 > system prompts, optimizers, frameworks and guides — ranked daily by GitHub momentum.
 
-Updated: 2026-07-04T10:48:41.822848+00:00
+Updated: 2026-07-05T10:58:19.540034+00:00
 Resources indexed: 135
 
 ## Top prompt resources by momentum
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 93, ⭐73410 — Prompt Packs — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
-- [f/prompts.chat](https://github.com/f/prompts.chat) — momentum 87, ⭐164703 — Collections — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — momentum 87, ⭐83368 — Prompt Packs — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — momentum 86, ⭐141501 — System Prompts — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 82, ⭐56351 — Optimization & Tooling — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) — momentum 82, ⭐5497 — Frameworks — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — momentum 81, ⭐48377 — System Prompts — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) — momentum 79, ⭐26857 — Optimization & Tooling — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) — momentum 78, ⭐44560 — System Prompts — LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO
-- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) — momentum 78, ⭐8149 — Image & Multimodal — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) — momentum 78, ⭐8021 — Image & Multimodal — 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview ima
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — momentum 77, ⭐31749 — System Prompts — An AI prompt optimizer for writing better prompts and getting better AI results.
-- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 77, ⭐20267 — Optimization & Tooling — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — momentum 76, ⭐14368 — Prompt Packs — Structured Outputs
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — momentum 75, ⭐12748 — Image & Multimodal — 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 l
-- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) — momentum 75, ⭐11580 — Collections — ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — momentum 75, ⭐11566 — System Prompts — All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Expl
-- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) — momentum 74, ⭐12292 — Frameworks — LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Met
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) — momentum 74, ⭐10664 — System Prompts — A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) — momentum 74, ⭐10149 — Guides & Courses — 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) — momentum 73, ⭐14807 — System Prompts — Collection of leaked system prompts
-- [EvoMap/evolver](https://github.com/EvoMap/evolver) — momentum 73, ⭐8849 — Frameworks — The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Ev
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) — momentum 73, ⭐8593 — Prompt Packs — 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompt
-- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — momentum 73, ⭐8384 — Guides & Courses — Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, promp
-- [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) — momentum 73, ⭐2580 — Prompt Packs — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and e
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — momentum 72, ⭐20776 — Prompt Packs — FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode
-- [microsoft/promptflow](https://github.com/microsoft/promptflow) — momentum 72, ⭐11173 — Prompt Packs — Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) — momentum 72, ⭐7455 — Prompt Packs — A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, an
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) — momentum 72, ⭐6918 — Frameworks — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.a
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) — momentum 72, ⭐6687 — Frameworks — LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
-- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — momentum 72, ⭐6123 — Optimization & Tooling — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative 
-- [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) — momentum 71, ⭐10182 — Prompt Packs — A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) — momentum 70, ⭐7653 — Guides & Courses — 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts
-- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) — momentum 70, ⭐1845 — Image & Multimodal — A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creator
-- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) — momentum 67, ⭐4049 — Collections — A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underg
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 93, ⭐74265 — System Prompts — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
+- [f/prompts.chat](https://github.com/f/prompts.chat) — momentum 87, ⭐164746 — Collections — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — momentum 87, ⭐84412 — Prompt Packs — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — momentum 86, ⭐141539 — System Prompts — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 82, ⭐56650 — Optimization & Tooling — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) — momentum 82, ⭐5751 — Frameworks — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — momentum 81, ⭐49328 — System Prompts — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) — momentum 79, ⭐26867 — Optimization & Tooling — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) — momentum 78, ⭐8170 — Image & Multimodal — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) — momentum 77, ⭐44646 — System Prompts — LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — momentum 77, ⭐31778 — System Prompts — An AI prompt optimizer for writing better prompts and getting better AI results.
+- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 77, ⭐20288 — Optimization & Tooling — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) — momentum 77, ⭐8040 — Image & Multimodal — 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview ima
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — momentum 76, ⭐14382 — Prompt Packs — Structured Outputs
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — momentum 75, ⭐12752 — Image & Multimodal — 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 l
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — momentum 75, ⭐11592 — System Prompts — All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Expl
+- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) — momentum 75, ⭐11581 — Collections — ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) — momentum 74, ⭐12296 — Frameworks — LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Met
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) — momentum 74, ⭐10665 — System Prompts — A collection of GPT system prompts and various prompt injection/leaking knowledge.
+- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) — momentum 74, ⭐10148 — Guides & Courses — 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) — momentum 73, ⭐14809 — System Prompts — Collection of leaked system prompts
+- [EvoMap/evolver](https://github.com/EvoMap/evolver) — momentum 73, ⭐8852 — Frameworks — The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Ev
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) — momentum 73, ⭐8594 — Prompt Packs — 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompt
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — momentum 73, ⭐8391 — Guides & Courses — Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, promp
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) — momentum 73, ⭐7659 — Guides & Courses — 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts
+- [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) — momentum 73, ⭐2587 — Prompt Packs — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and e
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — momentum 72, ⭐20781 — Prompt Packs — FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode
+- [microsoft/promptflow](https://github.com/microsoft/promptflow) — momentum 72, ⭐11176 — Prompt Packs — Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) — momentum 72, ⭐7459 — Prompt Packs — A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, an
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) — momentum 72, ⭐6922 — Frameworks — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.a
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) — momentum 72, ⭐6688 — Frameworks — LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
+- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — momentum 72, ⭐6126 — Optimization & Tooling — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative 
+- [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) — momentum 70, ⭐10198 — Prompt Packs — A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full
+- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) — momentum 70, ⭐1849 — Image & Multimodal — A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creator
+- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) — momentum 67, ⭐4057 — Collections — A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underg
 - [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) — momentum 67, ⭐2395 — Image & Multimodal — 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — momentum 67, ⭐2281 — System Prompts — Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/t
-- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — momentum 67, ⭐2041 — Guides & Courses — The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Se
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — momentum 67, ⭐2285 — System Prompts — Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/t
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — momentum 67, ⭐2043 — Guides & Courses — The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Se
 - [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) — momentum 67, ⭐152 — Optimization & Tooling — Best Prompt Engineering Tools for 2026 AI Workflow Optimization
 - [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) — momentum 67, ⭐151 — Optimization & Tooling — Top 10 Claude Prompt Optimization Frameworks 2026
