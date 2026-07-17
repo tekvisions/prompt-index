@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-07-16T10:48:47.283063+00:00",
+ "generated_at": "2026-07-17T10:29:16.200973+00:00",
  "count": 132,
  "categories": [
   {
    "name": "Optimization & Tooling",
-   "count": 33
+   "count": 30
   },
   {
    "name": "Prompt Packs",
@@ -12,7 +12,7 @@
   },
   {
    "name": "System Prompts",
-   "count": 21
+   "count": 24
   },
   {
    "name": "Collections",
@@ -39,9 +39,9 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 84355,
-   "forks": 4591,
-   "open_issues": 72,
+   "stars": 84953,
+   "forks": 4620,
+   "open_issues": 80,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-15T21:32:15Z",
@@ -70,12 +70,12 @@
    "url": "https://github.com/f/prompts.chat",
    "owner": "f",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-   "stars": 165845,
-   "forks": 21451,
+   "stars": 165885,
+   "forks": 21455,
    "open_issues": 66,
    "language": "HTML",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-16T10:33:32Z",
+   "pushed_at": "2026-07-17T09:33:08Z",
    "created_at": "2022-12-05T13:54:13Z",
    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
    "topics": [
@@ -109,9 +109,9 @@
    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
    "owner": "x1xhlol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4",
-   "stars": 141970,
-   "forks": 34803,
-   "open_issues": 156,
+   "stars": 141997,
+   "forks": 34806,
+   "open_issues": 157,
    "language": "",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-12T15:42:00Z",
@@ -140,7 +140,7 @@
     "windsurf-ai"
    ],
    "category": "System Prompts",
-   "momentum": 86,
+   "momentum": 85,
    "rank": 3
   },
   {
@@ -150,9 +150,9 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 90038,
-   "forks": 5177,
-   "open_issues": 400,
+   "stars": 90195,
+   "forks": 5098,
+   "open_issues": 404,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-03T11:10:42Z",
@@ -171,7 +171,7 @@
     "tokens"
    ],
    "category": "Prompt Packs",
-   "momentum": 84,
+   "momentum": 83,
    "rank": 4
   },
   {
@@ -181,12 +181,12 @@
    "url": "https://github.com/headroomlabs-ai/headroom",
    "owner": "headroomlabs-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/294291659?v=4",
-   "stars": 59449,
-   "forks": 4411,
-   "open_issues": 444,
+   "stars": 59595,
+   "forks": 4425,
+   "open_issues": 466,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T07:29:39Z",
+   "pushed_at": "2026-07-17T07:03:34Z",
    "created_at": "2026-01-07T19:58:51Z",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "topics": [
@@ -222,12 +222,12 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 58250,
-   "forks": 9626,
-   "open_issues": 40,
+   "stars": 58510,
+   "forks": 9567,
+   "open_issues": 35,
    "language": "JavaScript",
    "license": "CC0-1.0",
-   "pushed_at": "2026-07-16T07:43:15Z",
+   "pushed_at": "2026-07-17T07:41:20Z",
    "created_at": "2025-05-03T02:43:56Z",
    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
    "topics": [
@@ -263,12 +263,12 @@
    "url": "https://github.com/cobusgreyling/loop-engineering",
    "owner": "cobusgreyling",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7868717?v=4",
-   "stars": 8064,
-   "forks": 1055,
-   "open_issues": 18,
+   "stars": 8205,
+   "forks": 1076,
+   "open_issues": 22,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-07-16T09:51:21Z",
+   "pushed_at": "2026-07-17T09:42:01Z",
    "created_at": "2026-06-09T06:28:20Z",
    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
    "topics": [
@@ -301,9 +301,9 @@
    "url": "https://github.com/elder-plinius/CL4R1T4S",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 45635,
-   "forks": 9299,
-   "open_issues": 119,
+   "stars": 45677,
+   "forks": 9312,
+   "open_issues": 120,
    "language": "",
    "license": "AGPL-3.0",
    "pushed_at": "2026-07-14T16:13:12Z",
@@ -342,12 +342,12 @@
    "url": "https://github.com/linshenkx/prompt-optimizer",
    "owner": "linshenkx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32978552?v=4",
-   "stars": 32232,
-   "forks": 3765,
-   "open_issues": 9,
+   "stars": 32265,
+   "forks": 3769,
+   "open_issues": 7,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-16T07:03:21Z",
+   "pushed_at": "2026-07-17T08:10:26Z",
    "created_at": "2025-02-12T06:06:49Z",
    "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
    "topics": [
@@ -362,7 +362,7 @@
     "prompt-toolkit",
     "prompt-tuning"
    ],
-   "category": "Optimization & Tooling",
+   "category": "System Prompts",
    "momentum": 79,
    "rank": 9
   },
@@ -373,12 +373,12 @@
    "url": "https://github.com/mlflow/mlflow",
    "owner": "mlflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39938107?v=4",
-   "stars": 27055,
-   "forks": 6006,
-   "open_issues": 2052,
+   "stars": 27074,
+   "forks": 6016,
+   "open_issues": 2070,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T09:41:55Z",
+   "pushed_at": "2026-07-17T09:12:26Z",
    "created_at": "2018-06-05T16:05:58Z",
    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
    "topics": [
@@ -412,12 +412,12 @@
    "url": "https://github.com/comet-ml/opik",
    "owner": "comet-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 20625,
-   "forks": 1611,
-   "open_issues": 150,
+   "stars": 20645,
+   "forks": 1612,
+   "open_issues": 152,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T10:46:58Z",
+   "pushed_at": "2026-07-17T10:04:47Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -446,8 +446,8 @@
    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
    "owner": "freestylefly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43960064?v=4",
-   "stars": 8452,
-   "forks": 1080,
+   "stars": 8477,
+   "forks": 1083,
    "open_issues": 7,
    "language": "JavaScript",
    "license": "MIT",
@@ -476,7 +476,7 @@
    "url": "https://github.com/AI4Finance-Foundation/FinGPT",
    "owner": "AI4Finance-Foundation",
    "owner_avatar": "https://avatars.githubusercontent.com/u/68813910?v=4",
-   "stars": 20888,
+   "stars": 20894,
    "forks": 2968,
    "open_issues": 96,
    "language": "Jupyter Notebook",
@@ -510,12 +510,12 @@
    "url": "https://github.com/dottxt-ai/outlines",
    "owner": "dottxt-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/142257755?v=4",
-   "stars": 14516,
-   "forks": 779,
-   "open_issues": 123,
+   "stars": 14528,
+   "forks": 780,
+   "open_issues": 126,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T00:56:51Z",
+   "pushed_at": "2026-07-17T05:47:28Z",
    "created_at": "2023-03-17T16:01:18Z",
    "description": "Structured Outputs",
    "topics": [
@@ -539,12 +539,12 @@
    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
    "owner": "YouMind-OpenLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
-   "stars": 8319,
-   "forks": 757,
+   "stars": 8372,
+   "forks": 766,
    "open_issues": 3,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-16T01:28:39Z",
+   "pushed_at": "2026-07-17T01:31:33Z",
    "created_at": "2026-04-16T13:57:42Z",
    "description": "🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
    "topics": [
@@ -576,12 +576,12 @@
    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
    "owner": "YouMind-OpenLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
-   "stars": 12856,
-   "forks": 1393,
-   "open_issues": 0,
+   "stars": 12866,
+   "forks": 1394,
+   "open_issues": 1,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-16T08:44:25Z",
+   "pushed_at": "2026-07-17T08:41:46Z",
    "created_at": "2025-11-23T07:17:48Z",
    "description": "🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
    "topics": [
@@ -607,18 +607,53 @@
    "rank": 16
   },
   {
+   "name": "LangGPT",
+   "full_name": "langgptai/LangGPT",
+   "slug": "langgptai-langgpt",
+   "url": "https://github.com/langgptai/LangGPT",
+   "owner": "langgptai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/165652569?v=4",
+   "stars": 12349,
+   "forks": 935,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-16T14:03:09Z",
+   "created_at": "2023-05-06T13:49:43Z",
+   "description": "LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树",
+   "topics": [
+    "chatgpt",
+    "claude",
+    "deeplearning",
+    "doubao",
+    "framework",
+    "gemini",
+    "gpt-4",
+    "gpt3-prompts",
+    "langgpt",
+    "meta-prompting",
+    "prompt",
+    "prompt-engineering",
+    "qwen",
+    "structured-prompts"
+   ],
+   "category": "Frameworks",
+   "momentum": 75,
+   "rank": 17
+  },
+  {
    "name": "claude-code-system-prompts",
    "full_name": "Piebald-AI/claude-code-system-prompts",
    "slug": "piebald-ai-claude-code-system-prompts",
    "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
    "owner": "Piebald-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/216247589?v=4",
-   "stars": 11843,
-   "forks": 2010,
+   "stars": 11864,
+   "forks": 2012,
    "open_issues": 7,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-07-16T01:19:57Z",
+   "pushed_at": "2026-07-16T21:28:04Z",
    "created_at": "2025-11-18T21:26:33Z",
    "description": "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.",
    "topics": [
@@ -628,7 +663,7 @@
    ],
    "category": "System Prompts",
    "momentum": 75,
-   "rank": 17
+   "rank": 18
   },
   {
    "name": "chatgpt_system_prompt",
@@ -638,7 +673,7 @@
    "owner": "LouisShark",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18005609?v=4",
    "stars": 10690,
-   "forks": 1467,
+   "forks": 1468,
    "open_issues": 1,
    "language": "HTML",
    "license": "MIT",
@@ -652,7 +687,7 @@
    ],
    "category": "System Prompts",
    "momentum": 74,
-   "rank": 18
+   "rank": 19
   },
   {
    "name": "evolver",
@@ -661,12 +696,12 @@
    "url": "https://github.com/EvoMap/evolver",
    "owner": "EvoMap",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263044117?v=4",
-   "stars": 8897,
+   "stars": 8899,
    "forks": 817,
    "open_issues": 6,
    "language": "JavaScript",
    "license": "GPL-3.0",
-   "pushed_at": "2026-07-16T09:02:15Z",
+   "pushed_at": "2026-07-17T09:54:20Z",
    "created_at": "2026-02-01T05:59:24Z",
    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
    "topics": [
@@ -693,46 +728,6 @@
    ],
    "category": "Frameworks",
    "momentum": 74,
-   "rank": 19
-  },
-  {
-   "name": "awesome-chatgpt-zh",
-   "full_name": "EmbraceAGI/awesome-chatgpt-zh",
-   "slug": "embraceagi-awesome-chatgpt-zh",
-   "url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
-   "owner": "EmbraceAGI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/132356036?v=4",
-   "stars": 11597,
-   "forks": 946,
-   "open_issues": 7,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-03T22:06:36Z",
-   "created_at": "2023-03-21T02:16:34Z",
-   "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
-   "topics": [
-    "agi",
-    "ai",
-    "awesome",
-    "awesome-list",
-    "chat-gpt",
-    "chatglm",
-    "chatgpt",
-    "chatgpt3",
-    "chatgpt35-turbo",
-    "claude",
-    "deeplearning",
-    "gpt",
-    "gpt-4",
-    "langchain",
-    "openai",
-    "openai-chatgpt",
-    "prompt",
-    "prompt-engineering",
-    "tools"
-   ],
-   "category": "Collections",
-   "momentum": 73,
    "rank": 20
   },
   {
@@ -771,7 +766,7 @@
    "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
    "owner": "rockbenben",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28252913?v=4",
-   "stars": 8622,
+   "stars": 8624,
    "forks": 946,
    "open_issues": 0,
    "language": "TypeScript",
@@ -800,7 +795,7 @@
     "react",
     "typescript"
    ],
-   "category": "Prompt Packs",
+   "category": "System Prompts",
    "momentum": 73,
    "rank": 22
   },
@@ -811,12 +806,12 @@
    "url": "https://github.com/ai-boost/awesome-prompts",
    "owner": "ai-boost",
    "owner_avatar": "https://avatars.githubusercontent.com/u/70333750?v=4",
-   "stars": 8483,
-   "forks": 800,
-   "open_issues": 32,
+   "stars": 8494,
+   "forks": 802,
+   "open_issues": 33,
    "language": "",
    "license": "GPL-3.0",
-   "pushed_at": "2026-07-16T06:37:17Z",
+   "pushed_at": "2026-07-17T02:41:32Z",
    "created_at": "2024-01-19T15:15:10Z",
    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
    "topics": [
@@ -833,6 +828,112 @@
    "category": "Guides & Courses",
    "momentum": 73,
    "rank": 23
+  },
+  {
+   "name": "superpowers-zh",
+   "full_name": "jnMetaCode/superpowers-zh",
+   "slug": "jnmetacode-superpowers-zh",
+   "url": "https://github.com/jnMetaCode/superpowers-zh",
+   "owner": "jnMetaCode",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/12096460?v=4",
+   "stars": 6982,
+   "forks": 672,
+   "open_issues": 19,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-17T03:58:45Z",
+   "created_at": "2026-03-20T00:12:39Z",
+   "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+   "topics": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-coding",
+    "chinese",
+    "claude-code",
+    "code-review",
+    "cursor",
+    "gemini-cli",
+    "kiro",
+    "mcp",
+    "npm-package",
+    "prompt-engineering",
+    "skills",
+    "superpowers",
+    "tdd",
+    "trae"
+   ],
+   "category": "Prompt Packs",
+   "momentum": 73,
+   "rank": 24
+  },
+  {
+   "name": "awesome-chatgpt-zh",
+   "full_name": "EmbraceAGI/awesome-chatgpt-zh",
+   "slug": "embraceagi-awesome-chatgpt-zh",
+   "url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
+   "owner": "EmbraceAGI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/132356036?v=4",
+   "stars": 11596,
+   "forks": 946,
+   "open_issues": 7,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-03T22:06:36Z",
+   "created_at": "2023-03-21T02:16:34Z",
+   "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+   "topics": [
+    "agi",
+    "ai",
+    "awesome",
+    "awesome-list",
+    "chat-gpt",
+    "chatglm",
+    "chatgpt",
+    "chatgpt3",
+    "chatgpt35-turbo",
+    "claude",
+    "deeplearning",
+    "gpt",
+    "gpt-4",
+    "langchain",
+    "openai",
+    "openai-chatgpt",
+    "prompt",
+    "prompt-engineering",
+    "tools"
+   ],
+   "category": "Collections",
+   "momentum": 72,
+   "rank": 25
+  },
+  {
+   "name": "awesome-nanobanana-pro",
+   "full_name": "ZeroLu/awesome-nanobanana-pro",
+   "slug": "zerolu-awesome-nanobanana-pro",
+   "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+   "owner": "ZeroLu",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
+   "stars": 10180,
+   "forks": 862,
+   "open_issues": 7,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-07-02T14:16:18Z",
+   "created_at": "2025-11-10T13:51:03Z",
+   "description": "🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
+   "topics": [
+    "gemini",
+    "nanobanana",
+    "nanobanana-pro",
+    "nanobanana2",
+    "nanobananapro",
+    "prompt-engineering",
+    "prompt-guide",
+    "prompts"
+   ],
+   "category": "Guides & Courses",
+   "momentum": 72,
+   "rank": 26
   },
   {
    "name": "Prompt_Engineering",
@@ -870,107 +971,6 @@
     "tutorials"
    ],
    "category": "Guides & Courses",
-   "momentum": 73,
-   "rank": 24
-  },
-  {
-   "name": "LangGPT",
-   "full_name": "langgptai/LangGPT",
-   "slug": "langgptai-langgpt",
-   "url": "https://github.com/langgptai/LangGPT",
-   "owner": "langgptai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/165652569?v=4",
-   "stars": 12349,
-   "forks": 935,
-   "open_issues": 0,
-   "language": "Jupyter Notebook",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-29T23:22:58Z",
-   "created_at": "2023-05-06T13:49:43Z",
-   "description": "LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树",
-   "topics": [
-    "chatgpt",
-    "claude",
-    "deeplearning",
-    "doubao",
-    "framework",
-    "gemini",
-    "gpt-4",
-    "gpt3-prompts",
-    "langgpt",
-    "meta-prompting",
-    "prompt",
-    "prompt-engineering",
-    "qwen",
-    "structured-prompts"
-   ],
-   "category": "Frameworks",
-   "momentum": 72,
-   "rank": 25
-  },
-  {
-   "name": "awesome-nanobanana-pro",
-   "full_name": "ZeroLu/awesome-nanobanana-pro",
-   "slug": "zerolu-awesome-nanobanana-pro",
-   "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
-   "owner": "ZeroLu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
-   "stars": 10180,
-   "forks": 862,
-   "open_issues": 7,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-07-02T14:16:18Z",
-   "created_at": "2025-11-10T13:51:03Z",
-   "description": "🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
-   "topics": [
-    "gemini",
-    "nanobanana",
-    "nanobanana-pro",
-    "nanobanana2",
-    "nanobananapro",
-    "prompt-engineering",
-    "prompt-guide",
-    "prompts"
-   ],
-   "category": "Guides & Courses",
-   "momentum": 72,
-   "rank": 26
-  },
-  {
-   "name": "superpowers-zh",
-   "full_name": "jnMetaCode/superpowers-zh",
-   "slug": "jnmetacode-superpowers-zh",
-   "url": "https://github.com/jnMetaCode/superpowers-zh",
-   "owner": "jnMetaCode",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/12096460?v=4",
-   "stars": 6947,
-   "forks": 670,
-   "open_issues": 18,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-15T11:39:17Z",
-   "created_at": "2026-03-20T00:12:39Z",
-   "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-   "topics": [
-    "agent-skills",
-    "agentic-coding",
-    "ai-coding",
-    "chinese",
-    "claude-code",
-    "code-review",
-    "cursor",
-    "gemini-cli",
-    "kiro",
-    "mcp",
-    "npm-package",
-    "prompt-engineering",
-    "skills",
-    "superpowers",
-    "tdd",
-    "trae"
-   ],
-   "category": "Prompt Packs",
    "momentum": 72,
    "rank": 27
   },
@@ -981,12 +981,12 @@
    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
    "owner": "promptslab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120981762?v=4",
-   "stars": 6169,
+   "stars": 6171,
    "forks": 728,
    "open_issues": 91,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-16T08:24:40Z",
+   "pushed_at": "2026-07-17T08:20:53Z",
    "created_at": "2023-02-09T18:22:52Z",
    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc",
    "topics": [
@@ -1021,9 +1021,9 @@
    "url": "https://github.com/jujumilk3/leaked-system-prompts",
    "owner": "jujumilk3",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41659814?v=4",
-   "stars": 14860,
-   "forks": 2110,
-   "open_issues": 41,
+   "stars": 14864,
+   "forks": 2111,
+   "open_issues": 42,
    "language": "",
    "license": "",
    "pushed_at": "2026-06-20T01:13:25Z",
@@ -1046,8 +1046,8 @@
    "url": "https://github.com/AI4Finance-Foundation/FinRobot",
    "owner": "AI4Finance-Foundation",
    "owner_avatar": "https://avatars.githubusercontent.com/u/68813910?v=4",
-   "stars": 7569,
-   "forks": 1278,
+   "stars": 7581,
+   "forks": 1279,
    "open_issues": 72,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
@@ -1075,8 +1075,8 @@
    "url": "https://github.com/mufeedvh/code2prompt",
    "owner": "mufeedvh",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26198477?v=4",
-   "stars": 7477,
-   "forks": 427,
+   "stars": 7481,
+   "forks": 428,
    "open_issues": 18,
    "language": "Rust",
    "license": "MIT",
@@ -1098,7 +1098,7 @@
     "prompt-toolkit",
     "rust"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 70,
    "rank": 31
   },
@@ -1109,7 +1109,7 @@
    "url": "https://github.com/yaojingang/yao-open-prompts",
    "owner": "yaojingang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266242792?v=4",
-   "stars": 2626,
+   "stars": 2629,
    "forks": 429,
    "open_issues": 0,
    "language": "Python",
@@ -1135,12 +1135,12 @@
    "url": "https://github.com/ZeroLu/awesome-gpt-image",
    "owner": "ZeroLu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
-   "stars": 1898,
-   "forks": 159,
+   "stars": 1903,
+   "forks": 160,
    "open_issues": 1,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-16T03:11:53Z",
+   "pushed_at": "2026-07-17T03:14:44Z",
    "created_at": "2026-04-07T02:50:46Z",
    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
    "topics": [
@@ -1154,34 +1154,14 @@
    "rank": 33
   },
   {
-   "name": "claude-design-system-prompt",
-   "full_name": "Trystan-SA/claude-design-system-prompt",
-   "slug": "trystan-sa-claude-design-system-prompt",
-   "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-   "owner": "Trystan-SA",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/43876044?v=4",
-   "stars": 1729,
-   "forks": 222,
-   "open_issues": 0,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-07-06T15:45:22Z",
-   "created_at": "2026-04-27T14:07:38Z",
-   "description": "Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator.",
-   "topics": [],
-   "category": "System Prompts",
-   "momentum": 69,
-   "rank": 34
-  },
-  {
    "name": "prompt-master",
    "full_name": "nidhinjs/prompt-master",
    "slug": "nidhinjs-prompt-master",
    "url": "https://github.com/nidhinjs/prompt-master",
    "owner": "nidhinjs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254035488?v=4",
-   "stars": 10519,
-   "forks": 1251,
+   "stars": 10537,
+   "forks": 1255,
    "open_issues": 21,
    "language": "",
    "license": "MIT",
@@ -1196,6 +1176,26 @@
    ],
    "category": "Prompt Packs",
    "momentum": 68,
+   "rank": 34
+  },
+  {
+   "name": "claude-design-system-prompt",
+   "full_name": "Trystan-SA/claude-design-system-prompt",
+   "slug": "trystan-sa-claude-design-system-prompt",
+   "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+   "owner": "Trystan-SA",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/43876044?v=4",
+   "stars": 1736,
+   "forks": 224,
+   "open_issues": 0,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-07-06T15:45:22Z",
+   "created_at": "2026-04-27T14:07:38Z",
+   "description": "Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator.",
+   "topics": [],
+   "category": "System Prompts",
+   "momentum": 68,
    "rank": 35
   },
   {
@@ -1205,7 +1205,7 @@
    "url": "https://github.com/LearnPrompt/LearnPrompt",
    "owner": "LearnPrompt",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131418633?v=4",
-   "stars": 2534,
+   "stars": 2536,
    "forks": 210,
    "open_issues": 3,
    "language": "MDX",
@@ -1231,32 +1231,8 @@
     "stable-diffusion"
    ],
    "category": "Image & Multimodal",
-   "momentum": 68,
-   "rank": 36
-  },
-  {
-   "name": "banana-prompt-quicker",
-   "full_name": "glidea/banana-prompt-quicker",
-   "slug": "glidea-banana-prompt-quicker",
-   "url": "https://github.com/glidea/banana-prompt-quicker",
-   "owner": "glidea",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/53204825?v=4",
-   "stars": 2399,
-   "forks": 184,
-   "open_issues": 7,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-10T14:30:16Z",
-   "created_at": "2025-11-21T10:33:50Z",
-   "description": "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly",
-   "topics": [
-    "banana",
-    "gemini",
-    "prompt"
-   ],
-   "category": "Image & Multimodal",
    "momentum": 67,
-   "rank": 37
+   "rank": 36
   },
   {
    "name": "tweakcc",
@@ -1265,12 +1241,12 @@
    "url": "https://github.com/Piebald-AI/tweakcc",
    "owner": "Piebald-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/216247589?v=4",
-   "stars": 2326,
-   "forks": 186,
-   "open_issues": 55,
+   "stars": 2329,
+   "forks": 187,
+   "open_issues": 52,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-16T01:20:21Z",
+   "pushed_at": "2026-07-16T23:00:30Z",
    "created_at": "2025-07-20T21:32:22Z",
    "description": "Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.",
    "topics": [
@@ -1297,7 +1273,7 @@
    ],
    "category": "System Prompts",
    "momentum": 67,
-   "rank": 38
+   "rank": 37
   },
   {
    "name": "awesome-seedance",
@@ -1306,12 +1282,12 @@
    "url": "https://github.com/ZeroLu/awesome-seedance",
    "owner": "ZeroLu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
-   "stars": 2136,
+   "stars": 2139,
    "forks": 244,
    "open_issues": 3,
    "language": "Shell",
    "license": "MIT",
-   "pushed_at": "2026-07-16T02:41:47Z",
+   "pushed_at": "2026-07-17T02:44:02Z",
    "created_at": "2026-02-10T03:17:40Z",
    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
    "topics": [
@@ -1328,7 +1304,173 @@
    ],
    "category": "Guides & Courses",
    "momentum": 67,
+   "rank": 38
+  },
+  {
+   "name": "banana-prompt-quicker",
+   "full_name": "glidea/banana-prompt-quicker",
+   "slug": "glidea-banana-prompt-quicker",
+   "url": "https://github.com/glidea/banana-prompt-quicker",
+   "owner": "glidea",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/53204825?v=4",
+   "stars": 2398,
+   "forks": 184,
+   "open_issues": 7,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-10T14:30:16Z",
+   "created_at": "2025-11-21T10:33:50Z",
+   "description": "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly",
+   "topics": [
+    "banana",
+    "gemini",
+    "prompt"
+   ],
+   "category": "Image & Multimodal",
+   "momentum": 66,
    "rank": 39
+  },
+  {
+   "name": "awesome-seedance-2-prompts",
+   "full_name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+   "slug": "youmind-openlab-awesome-seedance-2-prompts",
+   "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
+   "owner": "YouMind-OpenLab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
+   "stars": 1592,
+   "forks": 186,
+   "open_issues": 1,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-17T06:32:43Z",
+   "created_at": "2026-02-11T10:15:40Z",
+   "description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
+   "topics": [
+    "ai-video",
+    "awesome",
+    "awesome-list",
+    "prompt-engineering",
+    "seedance",
+    "seedance-2",
+    "seedance-api",
+    "seedance2",
+    "video-generation",
+    "video-prompt"
+   ],
+   "category": "Guides & Courses",
+   "momentum": 66,
+   "rank": 40
+  },
+  {
+   "name": "codified-prompt-rule-engine",
+   "full_name": "heavenaruba/codified-prompt-rule-engine",
+   "slug": "heavenaruba-codified-prompt-rule-engine",
+   "url": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+   "owner": "heavenaruba",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/163279880?v=4",
+   "stars": 154,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "",
+   "pushed_at": "2026-07-17T10:02:44Z",
+   "created_at": "2026-06-28T19:33:45Z",
+   "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+   "topics": [
+    "ai-productivity",
+    "ai-prompts",
+    "ai-tools",
+    "anthropic",
+    "chain-of-thought",
+    "claude",
+    "claude-ai",
+    "claude-opus",
+    "claude-opus-4-6",
+    "few-shot-prompting",
+    "generative-ai",
+    "llm",
+    "meta-prompt",
+    "prompt-design",
+    "prompt-engineering",
+    "prompt-framework",
+    "prompt-optimization",
+    "system-prompts",
+    "xml-prompt"
+   ],
+   "category": "System Prompts",
+   "momentum": 66,
+   "rank": 41
+  },
+  {
+   "name": "opus-prompt-architect",
+   "full_name": "AgustiPuigserver/opus-prompt-architect",
+   "slug": "agustipuigserver-opus-prompt-architect",
+   "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+   "owner": "AgustiPuigserver",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/212578609?v=4",
+   "stars": 154,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "",
+   "pushed_at": "2026-07-17T10:03:18Z",
+   "created_at": "2026-06-28T19:34:17Z",
+   "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+   "topics": [
+    "ai-productivity",
+    "ai-prompts",
+    "ai-tools",
+    "anthropic",
+    "chain-of-thought",
+    "claude",
+    "claude-ai",
+    "claude-opus",
+    "claude-opus-4-8",
+    "few-shot-prompting",
+    "generative-ai",
+    "llm",
+    "meta-prompt",
+    "meta-prompting",
+    "prompt-design",
+    "prompt-engineering",
+    "prompt-framework",
+    "prompt-optimization",
+    "system-prompts",
+    "xml-prompt"
+   ],
+   "category": "System Prompts",
+   "momentum": 66,
+   "rank": 42
+  },
+  {
+   "name": "awesome-notebookLM-prompts",
+   "full_name": "serenakeyitan/awesome-notebookLM-prompts",
+   "slug": "serenakeyitan-awesome-notebooklm-prompts",
+   "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
+   "owner": "serenakeyitan",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/94026305?v=4",
+   "stars": 4200,
+   "forks": 609,
+   "open_issues": 1,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-06-19T08:11:56Z",
+   "created_at": "2025-12-12T00:51:13Z",
+   "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "gemini",
+    "google",
+    "nanobananapro",
+    "notebooklm",
+    "prompt",
+    "prompt-engineering",
+    "prompts"
+   ],
+   "category": "Collections",
+   "momentum": 65,
+   "rank": 43
   },
   {
    "name": "Claude-Code-Everything-You-Need-to-Know",
@@ -1337,8 +1479,8 @@
    "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
    "owner": "wesammustafa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/33235742?v=4",
-   "stars": 2323,
-   "forks": 264,
+   "stars": 2327,
+   "forks": 265,
    "open_issues": 4,
    "language": "Python",
    "license": "MIT",
@@ -1368,148 +1510,6 @@
     "tutorial"
    ],
    "category": "Guides & Courses",
-   "momentum": 66,
-   "rank": 40
-  },
-  {
-   "name": "awesome-seedance-2-prompts",
-   "full_name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-   "slug": "youmind-openlab-awesome-seedance-2-prompts",
-   "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
-   "owner": "YouMind-OpenLab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
-   "stars": 1583,
-   "forks": 186,
-   "open_issues": 3,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-16T10:29:01Z",
-   "created_at": "2026-02-11T10:15:40Z",
-   "description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
-   "topics": [
-    "ai-video",
-    "awesome",
-    "awesome-list",
-    "prompt-engineering",
-    "seedance",
-    "seedance-2",
-    "seedance-api",
-    "seedance2",
-    "video-generation",
-    "video-prompt"
-   ],
-   "category": "Guides & Courses",
-   "momentum": 66,
-   "rank": 41
-  },
-  {
-   "name": "codified-prompt-rule-engine",
-   "full_name": "heavenaruba/codified-prompt-rule-engine",
-   "slug": "heavenaruba-codified-prompt-rule-engine",
-   "url": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-   "owner": "heavenaruba",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/163279880?v=4",
-   "stars": 154,
-   "forks": 0,
-   "open_issues": 0,
-   "language": "HTML",
-   "license": "",
-   "pushed_at": "2026-07-16T08:21:14Z",
-   "created_at": "2026-06-28T19:33:45Z",
-   "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-   "topics": [
-    "ai-productivity",
-    "ai-prompts",
-    "ai-tools",
-    "anthropic",
-    "chain-of-thought",
-    "claude",
-    "claude-ai",
-    "claude-opus",
-    "claude-opus-4-6",
-    "few-shot-prompting",
-    "generative-ai",
-    "llm",
-    "meta-prompt",
-    "prompt-design",
-    "prompt-engineering",
-    "prompt-framework",
-    "prompt-optimization",
-    "system-prompts",
-    "xml-prompt"
-   ],
-   "category": "Optimization & Tooling",
-   "momentum": 66,
-   "rank": 42
-  },
-  {
-   "name": "opus-prompt-architect",
-   "full_name": "AgustiPuigserver/opus-prompt-architect",
-   "slug": "agustipuigserver-opus-prompt-architect",
-   "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-   "owner": "AgustiPuigserver",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/212578609?v=4",
-   "stars": 154,
-   "forks": 0,
-   "open_issues": 0,
-   "language": "HTML",
-   "license": "",
-   "pushed_at": "2026-07-16T09:18:41Z",
-   "created_at": "2026-06-28T19:34:17Z",
-   "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-   "topics": [
-    "ai-productivity",
-    "ai-prompts",
-    "ai-tools",
-    "anthropic",
-    "chain-of-thought",
-    "claude",
-    "claude-ai",
-    "claude-opus",
-    "claude-opus-4-8",
-    "few-shot-prompting",
-    "generative-ai",
-    "llm",
-    "meta-prompt",
-    "meta-prompting",
-    "prompt-design",
-    "prompt-engineering",
-    "prompt-framework",
-    "prompt-optimization",
-    "system-prompts",
-    "xml-prompt"
-   ],
-   "category": "Optimization & Tooling",
-   "momentum": 66,
-   "rank": 43
-  },
-  {
-   "name": "awesome-notebookLM-prompts",
-   "full_name": "serenakeyitan/awesome-notebookLM-prompts",
-   "slug": "serenakeyitan-awesome-notebooklm-prompts",
-   "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts",
-   "owner": "serenakeyitan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/94026305?v=4",
-   "stars": 4162,
-   "forks": 600,
-   "open_issues": 1,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-06-19T08:11:56Z",
-   "created_at": "2025-12-12T00:51:13Z",
-   "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "gemini",
-    "google",
-    "nanobananapro",
-    "notebooklm",
-    "prompt",
-    "prompt-engineering",
-    "prompts"
-   ],
-   "category": "Collections",
    "momentum": 65,
    "rank": 44
   },
@@ -1520,7 +1520,7 @@
    "url": "https://github.com/zzet/gortex",
    "owner": "zzet",
    "owner_avatar": "https://avatars.githubusercontent.com/u/510788?v=4",
-   "stars": 873,
+   "stars": 879,
    "forks": 74,
    "open_issues": 15,
    "language": "Go",
@@ -1550,7 +1550,7 @@
     "tokens",
     "windsurf"
    ],
-   "category": "System Prompts",
+   "category": "Optimization & Tooling",
    "momentum": 65,
    "rank": 45
   },
@@ -1562,7 +1562,7 @@
    "owner": "ianarawjo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5251713?v=4",
    "stars": 3012,
-   "forks": 256,
+   "forks": 257,
    "open_issues": 69,
    "language": "TypeScript",
    "license": "MIT",
@@ -1580,37 +1580,6 @@
    "category": "Optimization & Tooling",
    "momentum": 62,
    "rank": 46
-  },
-  {
-   "name": "MeiGen-AI-Design-MCP",
-   "full_name": "jau123/MeiGen-AI-Design-MCP",
-   "slug": "jau123-meigen-ai-design-mcp",
-   "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
-   "owner": "jau123",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/130447398?v=4",
-   "stars": 1577,
-   "forks": 205,
-   "open_issues": 2,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-06-23T13:12:52Z",
-   "created_at": "2026-02-07T12:39:26Z",
-   "description": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system",
-   "topics": [
-    "ai-image-generation",
-    "claude",
-    "claude-code",
-    "comfyui",
-    "mcp",
-    "mcp-server",
-    "model-context-protocol",
-    "openclaw",
-    "prompt-engineering",
-    "seedance2"
-   ],
-   "category": "Frameworks",
-   "momentum": 62,
-   "rank": 47
   },
   {
    "name": "AI-Gist",
@@ -1640,6 +1609,32 @@
    ],
    "category": "Prompt Packs",
    "momentum": 62,
+   "rank": 47
+  },
+  {
+   "name": "copilot-prompts",
+   "full_name": "pnp/copilot-prompts",
+   "slug": "pnp-copilot-prompts",
+   "url": "https://github.com/pnp/copilot-prompts",
+   "owner": "pnp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/31443929?v=4",
+   "stars": 812,
+   "forks": 275,
+   "open_issues": 54,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-07-16T09:58:09Z",
+   "created_at": "2024-04-25T06:53:50Z",
+   "description": "Examples of prompts for Microsoft Copilot",
+   "topics": [
+    "github-copilot",
+    "microsoft-copilot",
+    "prompt-engineering",
+    "prompt-toolkit",
+    "prompts"
+   ],
+   "category": "Prompt Packs",
+   "momentum": 62,
    "rank": 48
   },
   {
@@ -1649,8 +1644,8 @@
    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
    "owner": "dair-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30384625?v=4",
-   "stars": 76537,
-   "forks": 8393,
+   "stars": 76649,
+   "forks": 8414,
    "open_issues": 275,
    "language": "MDX",
    "license": "MIT",
@@ -1675,13 +1670,44 @@
    "rank": 49
   },
   {
+   "name": "MeiGen-AI-Design-MCP",
+   "full_name": "jau123/MeiGen-AI-Design-MCP",
+   "slug": "jau123-meigen-ai-design-mcp",
+   "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+   "owner": "jau123",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130447398?v=4",
+   "stars": 1579,
+   "forks": 206,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-06-23T13:12:52Z",
+   "created_at": "2026-02-07T12:39:26Z",
+   "description": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system",
+   "topics": [
+    "ai-image-generation",
+    "claude",
+    "claude-code",
+    "comfyui",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "openclaw",
+    "prompt-engineering",
+    "seedance2"
+   ],
+   "category": "Frameworks",
+   "momentum": 61,
+   "rank": 50
+  },
+  {
    "name": "Awesome-Context-Engineering",
    "full_name": "Meirtz/Awesome-Context-Engineering",
    "slug": "meirtz-awesome-context-engineering",
    "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
    "owner": "Meirtz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5152668?v=4",
-   "stars": 3240,
+   "stars": 3238,
    "forks": 258,
    "open_issues": 45,
    "language": "",
@@ -1701,7 +1727,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 60,
-   "rank": 50
+   "rank": 51
   },
   {
    "name": "prompt-in-context-learning",
@@ -1737,7 +1763,7 @@
    ],
    "category": "Collections",
    "momentum": 59,
-   "rank": 51
+   "rank": 52
   },
   {
    "name": "ainativelang",
@@ -1778,7 +1804,33 @@
    ],
    "category": "Frameworks",
    "momentum": 59,
-   "rank": 52
+   "rank": 53
+  },
+  {
+   "name": "SuperPrompt",
+   "full_name": "NeoVertex1/SuperPrompt",
+   "slug": "neovertex1-superprompt",
+   "url": "https://github.com/NeoVertex1/SuperPrompt",
+   "owner": "NeoVertex1",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/176629654?v=4",
+   "stars": 6420,
+   "forks": 574,
+   "open_issues": 12,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-04-26T23:57:34Z",
+   "created_at": "2024-09-01T01:57:27Z",
+   "description": "SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.",
+   "topics": [
+    "ai",
+    "ml",
+    "prompt-engineering",
+    "prompts",
+    "prompts-template"
+   ],
+   "category": "Prompt Packs",
+   "momentum": 58,
+   "rank": 54
   },
   {
    "name": "mira-OSS",
@@ -1816,34 +1868,8 @@
     "semantic-search"
    ],
    "category": "System Prompts",
-   "momentum": 59,
-   "rank": 53
-  },
-  {
-   "name": "SuperPrompt",
-   "full_name": "NeoVertex1/SuperPrompt",
-   "slug": "neovertex1-superprompt",
-   "url": "https://github.com/NeoVertex1/SuperPrompt",
-   "owner": "NeoVertex1",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/176629654?v=4",
-   "stars": 6421,
-   "forks": 575,
-   "open_issues": 12,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-04-26T23:57:34Z",
-   "created_at": "2024-09-01T01:57:27Z",
-   "description": "SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.",
-   "topics": [
-    "ai",
-    "ml",
-    "prompt-engineering",
-    "prompts",
-    "prompts-template"
-   ],
-   "category": "Prompt Packs",
    "momentum": 58,
-   "rank": 54
+   "rank": 55
   },
   {
    "name": "image-prompt-library",
@@ -1881,41 +1907,6 @@
    ],
    "category": "Image & Multimodal",
    "momentum": 58,
-   "rank": 55
-  },
-  {
-   "name": "DecryptPrompt",
-   "full_name": "DSXiangLi/DecryptPrompt",
-   "slug": "dsxiangli-decryptprompt",
-   "url": "https://github.com/DSXiangLi/DecryptPrompt",
-   "owner": "DSXiangLi",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/37739462?v=4",
-   "stars": 3423,
-   "forks": 321,
-   "open_issues": 1,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-05-06T00:21:19Z",
-   "created_at": "2023-02-10T14:10:38Z",
-   "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
-   "topics": [
-    "aigc",
-    "chain-of-thought",
-    "chatgpt",
-    "demonstration",
-    "few-shot-learning",
-    "in-context-learning",
-    "instruction-tuning",
-    "llm",
-    "llm-agent",
-    "papers",
-    "prompt",
-    "prompt-engineering",
-    "prompt-tuning",
-    "zero-shot-learning"
-   ],
-   "category": "Optimization & Tooling",
-   "momentum": 57,
    "rank": 56
   },
   {
@@ -1953,8 +1944,8 @@
    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
    "owner": "anthropics",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
-   "stars": 37074,
-   "forks": 4054,
+   "stars": 37095,
+   "forks": 4057,
    "open_issues": 63,
    "language": "Jupyter Notebook",
    "license": "",
@@ -1965,6 +1956,41 @@
    "category": "Guides & Courses",
    "momentum": 56,
    "rank": 58
+  },
+  {
+   "name": "DecryptPrompt",
+   "full_name": "DSXiangLi/DecryptPrompt",
+   "slug": "dsxiangli-decryptprompt",
+   "url": "https://github.com/DSXiangLi/DecryptPrompt",
+   "owner": "DSXiangLi",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/37739462?v=4",
+   "stars": 3424,
+   "forks": 321,
+   "open_issues": 1,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-05-06T00:21:19Z",
+   "created_at": "2023-02-10T14:10:38Z",
+   "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
+   "topics": [
+    "aigc",
+    "chain-of-thought",
+    "chatgpt",
+    "demonstration",
+    "few-shot-learning",
+    "in-context-learning",
+    "instruction-tuning",
+    "llm",
+    "llm-agent",
+    "papers",
+    "prompt",
+    "prompt-engineering",
+    "prompt-tuning",
+    "zero-shot-learning"
+   ],
+   "category": "Optimization & Tooling",
+   "momentum": 56,
+   "rank": 59
   },
   {
    "name": "Awesome-LLM-Prompt-Optimization",
@@ -1995,7 +2021,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 56,
-   "rank": 59
+   "rank": 60
   },
   {
    "name": "CoolPrompt",
@@ -2030,7 +2056,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 56,
-   "rank": 60
+   "rank": 61
   },
   {
    "name": "ragbits",
@@ -2060,7 +2086,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 55,
-   "rank": 61
+   "rank": 62
   },
   {
    "name": "Awesome-LLM-Reasoning",
@@ -2069,8 +2095,8 @@
    "url": "https://github.com/atfortes/Awesome-LLM-Reasoning",
    "owner": "atfortes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/57639145?v=4",
-   "stars": 3650,
-   "forks": 212,
+   "stars": 3649,
+   "forks": 213,
    "open_issues": 27,
    "language": "",
    "license": "MIT",
@@ -2099,7 +2125,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 54,
-   "rank": 62
+   "rank": 63
   },
   {
    "name": "claude-code-prompts",
@@ -2108,8 +2134,8 @@
    "url": "https://github.com/repowise-dev/claude-code-prompts",
    "owner": "repowise-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/271941743?v=4",
-   "stars": 1158,
-   "forks": 387,
+   "stars": 1160,
+   "forks": 386,
    "open_issues": 1,
    "language": "",
    "license": "MIT",
@@ -2134,7 +2160,27 @@
    ],
    "category": "System Prompts",
    "momentum": 54,
-   "rank": 63
+   "rank": 64
+  },
+  {
+   "name": "talk-normal",
+   "full_name": "hexiecs/talk-normal",
+   "slug": "hexiecs-talk-normal",
+   "url": "https://github.com/hexiecs/talk-normal",
+   "owner": "hexiecs",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/12725406?v=4",
+   "stars": 1798,
+   "forks": 60,
+   "open_issues": 0,
+   "language": "Shell",
+   "license": "MIT",
+   "pushed_at": "2026-04-22T03:21:20Z",
+   "created_at": "2026-04-08T23:58:35Z",
+   "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
+   "topics": [],
+   "category": "System Prompts",
+   "momentum": 53,
+   "rank": 65
   },
   {
    "name": "BlackFriday-GPTs-Prompts",
@@ -2143,8 +2189,8 @@
    "url": "https://github.com/friuns2/BlackFriday-GPTs-Prompts",
    "owner": "friuns2",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16543239?v=4",
-   "stars": 9601,
-   "forks": 1379,
+   "stars": 9604,
+   "forks": 1381,
    "open_issues": 222,
    "language": "",
    "license": "MIT",
@@ -2174,28 +2220,34 @@
     "spam"
    ],
    "category": "Collections",
-   "momentum": 53,
-   "rank": 64
+   "momentum": 52,
+   "rank": 66
   },
   {
-   "name": "talk-normal",
-   "full_name": "hexiecs/talk-normal",
-   "slug": "hexiecs-talk-normal",
-   "url": "https://github.com/hexiecs/talk-normal",
-   "owner": "hexiecs",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/12725406?v=4",
-   "stars": 1796,
-   "forks": 60,
-   "open_issues": 0,
-   "language": "Shell",
-   "license": "MIT",
-   "pushed_at": "2026-04-22T03:21:20Z",
-   "created_at": "2026-04-08T23:58:35Z",
-   "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-   "topics": [],
-   "category": "System Prompts",
-   "momentum": 53,
-   "rank": 65
+   "name": "ComfyUI-Prompt-Assistant",
+   "full_name": "yawiii/ComfyUI-Prompt-Assistant",
+   "slug": "yawiii-comfyui-prompt-assistant",
+   "url": "https://github.com/yawiii/ComfyUI-Prompt-Assistant",
+   "owner": "yawiii",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/82788731?v=4",
+   "stars": 2114,
+   "forks": 104,
+   "open_issues": 24,
+   "language": "JavaScript",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-04-25T03:13:22Z",
+   "created_at": "2025-06-06T03:10:12Z",
+   "description": "提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.",
+   "topics": [
+    "comfyui",
+    "expand",
+    "prompt",
+    "tags",
+    "translate"
+   ],
+   "category": "Image & Multimodal",
+   "momentum": 52,
+   "rank": 67
   },
   {
    "name": "ai-prompts",
@@ -2204,7 +2256,7 @@
    "url": "https://github.com/instructa/ai-prompts",
    "owner": "instructa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/190248861?v=4",
-   "stars": 1058,
+   "stars": 1059,
    "forks": 136,
    "open_issues": 6,
    "language": "JavaScript",
@@ -2226,34 +2278,8 @@
     "windsurf"
    ],
    "category": "Collections",
-   "momentum": 53,
-   "rank": 66
-  },
-  {
-   "name": "ComfyUI-Prompt-Assistant",
-   "full_name": "yawiii/ComfyUI-Prompt-Assistant",
-   "slug": "yawiii-comfyui-prompt-assistant",
-   "url": "https://github.com/yawiii/ComfyUI-Prompt-Assistant",
-   "owner": "yawiii",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/82788731?v=4",
-   "stars": 2110,
-   "forks": 104,
-   "open_issues": 24,
-   "language": "JavaScript",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-04-25T03:13:22Z",
-   "created_at": "2025-06-06T03:10:12Z",
-   "description": "提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.",
-   "topics": [
-    "comfyui",
-    "expand",
-    "prompt",
-    "tags",
-    "translate"
-   ],
-   "category": "Image & Multimodal",
    "momentum": 52,
-   "rank": 67
+   "rank": 68
   },
   {
    "name": "Prompt-Engineering-Guide-zh-CN",
@@ -2280,7 +2306,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 52,
-   "rank": 68
+   "rank": 69
   },
   {
    "name": "ComfyUI_PromptManager",
@@ -2300,7 +2326,7 @@
    "topics": [],
    "category": "Image & Multimodal",
    "momentum": 52,
-   "rank": 69
+   "rank": 70
   },
   {
    "name": "L1B3RT4S",
@@ -2309,8 +2335,8 @@
    "url": "https://github.com/elder-plinius/L1B3RT4S",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 20492,
-   "forks": 2541,
+   "stars": 20503,
+   "forks": 2547,
    "open_issues": 77,
    "language": "",
    "license": "AGPL-3.0",
@@ -2338,7 +2364,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 51,
-   "rank": 70
+   "rank": 71
   },
   {
    "name": "Promptify",
@@ -2347,7 +2373,7 @@
    "url": "https://github.com/promptslab/Promptify",
    "owner": "promptslab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120981762?v=4",
-   "stars": 4622,
+   "stars": 4621,
    "forks": 362,
    "open_issues": 60,
    "language": "Python",
@@ -2379,7 +2405,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 51,
-   "rank": 71
+   "rank": 72
   },
   {
    "name": "Context-Engineering",
@@ -2388,7 +2414,7 @@
    "url": "https://github.com/jasontang-ai/Context-Engineering",
    "owner": "jasontang-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/208424706?v=4",
-   "stars": 9160,
+   "stars": 9161,
    "forks": 1020,
    "open_issues": 3,
    "language": "Python",
@@ -2399,7 +2425,7 @@
    "topics": [],
    "category": "Optimization & Tooling",
    "momentum": 49,
-   "rank": 72
+   "rank": 73
   },
   {
    "name": "taches-cc-resources",
@@ -2408,8 +2434,8 @@
    "url": "https://github.com/glittercowboy/taches-cc-resources",
    "owner": "glittercowboy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/186001655?v=4",
-   "stars": 1974,
-   "forks": 414,
+   "stars": 1973,
+   "forks": 413,
    "open_issues": 16,
    "language": "TypeScript",
    "license": "MIT",
@@ -2427,26 +2453,6 @@
    ],
    "category": "Collections",
    "momentum": 48,
-   "rank": 73
-  },
-  {
-   "name": "prompt-ops",
-   "full_name": "meta-llama/prompt-ops",
-   "slug": "meta-llama-prompt-ops",
-   "url": "https://github.com/meta-llama/prompt-ops",
-   "owner": "meta-llama",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
-   "stars": 844,
-   "forks": 133,
-   "open_issues": 21,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-21T18:28:47Z",
-   "created_at": "2025-03-14T17:59:40Z",
-   "description": "An open-source tool for LLM prompt optimization.",
-   "topics": [],
-   "category": "Optimization & Tooling",
-   "momentum": 48,
    "rank": 74
   },
   {
@@ -2456,7 +2462,7 @@
    "url": "https://github.com/langgptai/awesome-claude-prompts",
    "owner": "langgptai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/165652569?v=4",
-   "stars": 5340,
+   "stars": 5341,
    "forks": 594,
    "open_issues": 19,
    "language": "",
@@ -2487,14 +2493,34 @@
    "rank": 75
   },
   {
+   "name": "prompt-ops",
+   "full_name": "meta-llama/prompt-ops",
+   "slug": "meta-llama-prompt-ops",
+   "url": "https://github.com/meta-llama/prompt-ops",
+   "owner": "meta-llama",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
+   "stars": 846,
+   "forks": 133,
+   "open_issues": 21,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-04-21T18:28:47Z",
+   "created_at": "2025-03-14T17:59:40Z",
+   "description": "An open-source tool for LLM prompt optimization.",
+   "topics": [],
+   "category": "Optimization & Tooling",
+   "momentum": 47,
+   "rank": 76
+  },
+  {
    "name": "12-factor-agents",
    "full_name": "humanlayer/12-factor-agents",
    "slug": "humanlayer-12-factor-agents",
    "url": "https://github.com/humanlayer/12-factor-agents",
    "owner": "humanlayer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/177409041?v=4",
-   "stars": 24329,
-   "forks": 1846,
+   "stars": 24360,
+   "forks": 1848,
    "open_issues": 26,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -2516,7 +2542,7 @@
    ],
    "category": "Frameworks",
    "momentum": 46,
-   "rank": 76
+   "rank": 77
   },
   {
    "name": "Ultimate-ChatGPT-Image-and-Nano-Banana-Pro-Collection",
@@ -2544,7 +2570,7 @@
    ],
    "category": "Image & Multimodal",
    "momentum": 46,
-   "rank": 77
+   "rank": 78
   },
   {
    "name": "promptolution",
@@ -2572,7 +2598,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 46,
-   "rank": 78
+   "rank": 79
   },
   {
    "name": "most-capable-agent-system-prompt",
@@ -2581,7 +2607,7 @@
    "url": "https://github.com/fainir/most-capable-agent-system-prompt",
    "owner": "fainir",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6260146?v=4",
-   "stars": 854,
+   "stars": 857,
    "forks": 129,
    "open_issues": 1,
    "language": "",
@@ -2591,8 +2617,8 @@
    "description": "Most Capable Agent System Prompt",
    "topics": [],
    "category": "System Prompts",
-   "momentum": 45,
-   "rank": 79
+   "momentum": 44,
+   "rank": 80
   },
   {
    "name": "prompts",
@@ -2621,7 +2647,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 42,
-   "rank": 80
+   "rank": 81
   },
   {
    "name": "awesome-gpt4o-images",
@@ -2630,8 +2656,8 @@
    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
    "owner": "jamez-bondos",
    "owner_avatar": "https://avatars.githubusercontent.com/u/202651917?v=4",
-   "stars": 8093,
-   "forks": 1808,
+   "stars": 8092,
+   "forks": 1810,
    "open_issues": 8,
    "language": "JavaScript",
    "license": "NOASSERTION",
@@ -2657,7 +2683,7 @@
    ],
    "category": "Image & Multimodal",
    "momentum": 41,
-   "rank": 81
+   "rank": 82
   },
   {
    "name": "enquirer",
@@ -2698,7 +2724,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 41,
-   "rank": 82
+   "rank": 83
   },
   {
    "name": "prompttools",
@@ -2728,7 +2754,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 41,
-   "rank": 83
+   "rank": 84
   },
   {
    "name": "OpenPromptStudio",
@@ -2737,7 +2763,7 @@
    "url": "https://github.com/Moonvy/OpenPromptStudio",
    "owner": "Moonvy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76830444?v=4",
-   "stars": 6626,
+   "stars": 6629,
    "forks": 741,
    "open_issues": 81,
    "language": "Vue",
@@ -2753,7 +2779,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 40,
-   "rank": 84
+   "rank": 85
   },
   {
    "name": "wonderful-prompts",
@@ -2762,7 +2788,7 @@
    "url": "https://github.com/langgptai/wonderful-prompts",
    "owner": "langgptai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/165652569?v=4",
-   "stars": 6173,
+   "stars": 6175,
    "forks": 530,
    "open_issues": 1,
    "language": "",
@@ -2783,7 +2809,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 40,
-   "rank": 85
+   "rank": 86
   },
   {
    "name": "promptbase",
@@ -2803,7 +2829,7 @@
    "topics": [],
    "category": "Prompt Packs",
    "momentum": 40,
-   "rank": 86
+   "rank": 87
   },
   {
    "name": "awesome-gpt-prompt-engineering",
@@ -2813,8 +2839,8 @@
    "owner": "snwfdhmp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23099246?v=4",
    "stars": 1607,
-   "forks": 199,
-   "open_issues": 14,
+   "forks": 200,
+   "open_issues": 15,
    "language": "Python",
    "license": "NOASSERTION",
    "pushed_at": "2026-02-23T12:11:18Z",
@@ -2843,7 +2869,7 @@
    ],
    "category": "Collections",
    "momentum": 40,
-   "rank": 87
+   "rank": 88
   },
   {
    "name": "Learning-Prompt",
@@ -2852,7 +2878,7 @@
    "url": "https://github.com/thinkingjimmy/Learning-Prompt",
    "owner": "thinkingjimmy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37492595?v=4",
-   "stars": 5317,
+   "stars": 5316,
    "forks": 395,
    "open_issues": 16,
    "language": "CSS",
@@ -2867,7 +2893,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 39,
-   "rank": 88
+   "rank": 89
   },
   {
    "name": "OpenPrompt",
@@ -2876,7 +2902,7 @@
    "url": "https://github.com/thunlp/OpenPrompt",
    "owner": "thunlp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18389035?v=4",
-   "stars": 4885,
+   "stars": 4884,
    "forks": 478,
    "open_issues": 100,
    "language": "Python",
@@ -2902,9 +2928,9 @@
     "pytorch",
     "transformer"
    ],
-   "category": "Optimization & Tooling",
+   "category": "System Prompts",
    "momentum": 39,
-   "rank": 89
+   "rank": 90
   },
   {
    "name": "Learn_Prompting",
@@ -2914,7 +2940,7 @@
    "owner": "trigaten",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42948753?v=4",
    "stars": 4714,
-   "forks": 670,
+   "forks": 669,
    "open_issues": 100,
    "language": "MDX",
    "license": "NOASSERTION",
@@ -2942,7 +2968,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 39,
-   "rank": 90
+   "rank": 91
   },
   {
    "name": "AlphaCodium",
@@ -2968,7 +2994,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 38,
-   "rank": 91
+   "rank": 92
   },
   {
    "name": "discoart",
@@ -3004,7 +3030,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 38,
-   "rank": 92
+   "rank": 93
   },
   {
    "name": "jailbreak_llms",
@@ -3013,7 +3039,7 @@
    "url": "https://github.com/verazuo/jailbreak_llms",
    "owner": "verazuo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16172194?v=4",
-   "stars": 3735,
+   "stars": 3736,
    "forks": 323,
    "open_issues": 4,
    "language": "Jupyter Notebook",
@@ -3032,7 +3058,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 38,
-   "rank": 93
+   "rank": 94
   },
   {
    "name": "bullet",
@@ -3061,9 +3087,9 @@
     "terminal",
     "utility"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 37,
-   "rank": 94
+   "rank": 95
   },
   {
    "name": "Awesome-ChatGPT-prompts-ZH_CN",
@@ -3093,7 +3119,7 @@
    ],
    "category": "Collections",
    "momentum": 37,
-   "rank": 95
+   "rank": 96
   },
   {
    "name": "gpt-repository-loader",
@@ -3113,7 +3139,7 @@
    "topics": [],
    "category": "Prompt Packs",
    "momentum": 37,
-   "rank": 96
+   "rank": 97
   },
   {
    "name": "unlocking-the-power-of-llms",
@@ -3141,9 +3167,9 @@
     "prompts",
     "prompts-cn"
    ],
-   "category": "Prompt Packs",
+   "category": "System Prompts",
    "momentum": 36,
-   "rank": 97
+   "rank": 98
   },
   {
    "name": "click-prompt",
@@ -3170,7 +3196,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 36,
-   "rank": 98
+   "rank": 99
   },
   {
    "name": "GraphRAG-Local-UI",
@@ -3190,7 +3216,7 @@
    "topics": [],
    "category": "Optimization & Tooling",
    "momentum": 35,
-   "rank": 99
+   "rank": 100
   },
   {
    "name": "ChatGPT-Free-Prompt-List",
@@ -3217,7 +3243,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 35,
-   "rank": 100
+   "rank": 101
   },
   {
    "name": "dev-chatgpt-prompts",
@@ -3226,8 +3252,8 @@
    "url": "https://github.com/PickleBoxer/dev-chatgpt-prompts",
    "owner": "PickleBoxer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/78869247?v=4",
-   "stars": 2250,
-   "forks": 292,
+   "stars": 2252,
+   "forks": 293,
    "open_issues": 1,
    "language": "",
    "license": "",
@@ -3246,7 +3272,7 @@
    ],
    "category": "Collections",
    "momentum": 35,
-   "rank": 101
+   "rank": 102
   },
   {
    "name": "YiVal",
@@ -3286,7 +3312,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 35,
-   "rank": 102
+   "rank": 103
   },
   {
    "name": "ChatGPT-Prompt-Engineering-for-Developers-in-Chinese",
@@ -3295,7 +3321,7 @@
    "url": "https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese",
    "owner": "GitHubDaily",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46262515?v=4",
-   "stars": 2111,
+   "stars": 2112,
    "forks": 252,
    "open_issues": 1,
    "language": "Jupyter Notebook",
@@ -3312,7 +3338,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 35,
-   "rank": 103
+   "rank": 104
   },
   {
    "name": "P-tuning-v2",
@@ -3338,7 +3364,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 35,
-   "rank": 104
+   "rank": 105
   },
   {
    "name": "ps-fuzz",
@@ -3368,7 +3394,7 @@
    ],
    "category": "System Prompts",
    "momentum": 35,
-   "rank": 105
+   "rank": 106
   },
   {
    "name": "awesome-ai-art-image-synthesis",
@@ -3377,7 +3403,7 @@
    "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
    "owner": "altryne",
    "owner_avatar": "https://avatars.githubusercontent.com/u/463317?v=4",
-   "stars": 1804,
+   "stars": 1805,
    "forks": 143,
    "open_issues": 28,
    "language": "",
@@ -3390,7 +3416,7 @@
    ],
    "category": "Image & Multimodal",
    "momentum": 34,
-   "rank": 106
+   "rank": 107
   },
   {
    "name": "rebuff",
@@ -3417,7 +3443,7 @@
    ],
    "category": "Prompt Packs",
    "momentum": 34,
-   "rank": 107
+   "rank": 108
   },
   {
    "name": "promptoftheyear",
@@ -3441,7 +3467,7 @@
    ],
    "category": "Collections",
    "momentum": 33,
-   "rank": 108
+   "rank": 109
   },
   {
    "name": "Prompt-Engineering-Guide-Chinese",
@@ -3450,7 +3476,7 @@
    "url": "https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese",
    "owner": "wangxuqi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13748374?v=4",
-   "stars": 1388,
+   "stars": 1390,
    "forks": 145,
    "open_issues": 2,
    "language": "MDX",
@@ -3466,7 +3492,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 33,
-   "rank": 109
+   "rank": 110
   },
   {
    "name": "Get-Things-Done-with-Prompt-Engineering-and-LangChain",
@@ -3499,7 +3525,7 @@
    ],
    "category": "Guides & Courses",
    "momentum": 33,
-   "rank": 110
+   "rank": 111
   },
   {
    "name": "Awesome-AI-GPTs",
@@ -3528,7 +3554,7 @@
    ],
    "category": "Collections",
    "momentum": 32,
-   "rank": 111
+   "rank": 112
   },
   {
    "name": "Awesome-GPTs",
@@ -3554,7 +3580,7 @@
    ],
    "category": "System Prompts",
    "momentum": 32,
-   "rank": 112
+   "rank": 113
   },
   {
    "name": "Transformers-for-NLP-2nd-Edition",
@@ -3594,7 +3620,7 @@
    ],
    "category": "Optimization & Tooling",
    "momentum": 31,
-   "rank": 113
+   "rank": 114
   },
   {
    "name": "Awesome_Prompting_Papers_in_Computer_Vision",
@@ -3621,37 +3647,6 @@
     "zero-shot-learning"
    ],
    "category": "Optimization & Tooling",
-   "momentum": 31,
-   "rank": 114
-  },
-  {
-   "name": "self-refine",
-   "full_name": "madaan/self-refine",
-   "slug": "madaan-self-refine",
-   "url": "https://github.com/madaan/self-refine",
-   "owner": "madaan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1304693?v=4",
-   "stars": 812,
-   "forks": 68,
-   "open_issues": 10,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2024-10-04T21:06:28Z",
-   "created_at": "2023-03-28T13:32:20Z",
-   "description": "LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.",
-   "topics": [
-    "chatgpt",
-    "few-shot-learning",
-    "gpt-35",
-    "gpt-4",
-    "language-generation",
-    "large-language-models",
-    "llms",
-    "prompting",
-    "prompts",
-    "reasoning"
-   ],
-   "category": "Prompt Packs",
    "momentum": 31,
    "rank": 115
   },
@@ -3806,7 +3801,7 @@
    "url": "https://github.com/ZeroLu/awesome-gemini-ai",
    "owner": "ZeroLu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
-   "stars": 707,
+   "stars": 710,
    "forks": 73,
    "open_issues": 4,
    "language": "",
@@ -3947,7 +3942,7 @@
    "url": "https://github.com/shobrook/promptimal",
    "owner": "shobrook",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18684735?v=4",
-   "stars": 301,
+   "stars": 300,
    "forks": 15,
    "open_issues": 3,
    "language": "Python",
