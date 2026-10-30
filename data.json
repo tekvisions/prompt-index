@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:35:09.117195+00:00",
+ "generated_at": "2026-10-30T21:56:17.065660+00:00",
  "count": 138,
  "categories": [
   {
@@ -8,19 +8,19 @@
   },
   {
    "name": "System Prompts",
-   "count": 27
+   "count": 28
   },
   {
    "name": "Prompt Packs",
-   "count": 21
+   "count": 23
   },
   {
    "name": "Guides & Courses",
-   "count": 18
+   "count": 17
   },
   {
    "name": "Image & Multimodal",
-   "count": 17
+   "count": 16
   },
   {
    "name": "Collections",
@@ -28,7 +28,7 @@
   },
   {
    "name": "Frameworks",
-   "count": 9
+   "count": 8
   }
  ],
  "items": [
@@ -39,8 +39,8 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 180909,
-   "forks": 9937,
+   "stars": 180918,
+   "forks": 9938,
    "open_issues": 140,
    "language": "JavaScript",
    "license": "MIT",
@@ -70,7 +70,7 @@
    "url": "https://github.com/f/prompts.chat",
    "owner": "f",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-   "stars": 175269,
+   "stars": 175270,
    "forks": 22372,
    "open_issues": 79,
    "language": "HTML",
@@ -109,7 +109,7 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 116316,
+   "stars": 116319,
    "forks": 6733,
    "open_issues": 129,
    "language": "Go",
@@ -140,7 +140,7 @@
    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
    "owner": "x1xhlol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4",
-   "stars": 144371,
+   "stars": 144370,
    "forks": 34706,
    "open_issues": 163,
    "language": "",
@@ -222,7 +222,7 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 70494,
+   "stars": 70495,
    "forks": 11411,
    "open_issues": 21,
    "language": "Python",
@@ -263,7 +263,7 @@
    "url": "https://github.com/blader/humanizer",
    "owner": "blader",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
-   "stars": 62705,
+   "stars": 62706,
    "forks": 4967,
    "open_issues": 14,
    "language": "Python",
@@ -297,7 +297,7 @@
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
    "owner": "yihui-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26054274?v=4",
-   "stars": 12738,
+   "stars": 12743,
    "forks": 1349,
    "open_issues": 11,
    "language": "",
@@ -347,7 +347,7 @@
     "prompt-toolkit",
     "prompt-tuning"
    ],
-   "category": "System Prompts",
+   "category": "Optimization & Tooling",
    "momentum": 80,
    "rank": 9
   },
@@ -397,7 +397,7 @@
    "url": "https://github.com/comet-ml/opik",
    "owner": "comet-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 23049,
+   "stars": 23050,
    "forks": 1913,
    "open_issues": 169,
    "language": "Python",
@@ -431,7 +431,7 @@
    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
    "owner": "freestylefly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43960064?v=4",
-   "stars": 35280,
+   "stars": 35281,
    "forks": 3343,
    "open_issues": 32,
    "language": "JavaScript",
@@ -462,8 +462,8 @@
    "url": "https://github.com/elder-plinius/L1B3RT4S",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 22876,
-   "forks": 2823,
+   "stars": 22877,
+   "forks": 2824,
    "open_issues": 76,
    "language": "",
    "license": "AGPL-3.0",
@@ -541,7 +541,7 @@
    "owner": "AI4Finance-Foundation",
    "owner_avatar": "https://avatars.githubusercontent.com/u/68813910?v=4",
    "stars": 21492,
-   "forks": 3040,
+   "forks": 3041,
    "open_issues": 53,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -925,7 +925,7 @@
     "skill-library",
     "skills"
    ],
-   "category": "Frameworks",
+   "category": "System Prompts",
    "momentum": 73,
    "rank": 26
   },
@@ -1166,7 +1166,7 @@
    "url": "https://github.com/youngyangyang04/llm-master",
    "owner": "youngyangyang04",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8636020?v=4",
-   "stars": 1521,
+   "stars": 1522,
    "forks": 153,
    "open_issues": 5,
    "language": "",
@@ -1217,7 +1217,7 @@
    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
    "owner": "soumatheusgomes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11700039?v=4",
-   "stars": 2151,
+   "stars": 2152,
    "forks": 363,
    "open_issues": 3,
    "language": "JavaScript",
@@ -2021,7 +2021,7 @@
     "text-to-image",
     "visual-ai"
    ],
-   "category": "Image & Multimodal",
+   "category": "System Prompts",
    "momentum": 58,
    "rank": 60
   },
@@ -2201,7 +2201,7 @@
    "open_issues": 33,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-10-30T21:32:25Z",
+   "pushed_at": "2026-10-30T21:42:00Z",
    "created_at": "2025-05-24T15:04:09Z",
    "description": "Professional prompt management system for ComfyUI with advanced search, tagging, star ratings, and integrated image galleries. Features modern UI with light/dark modes, bulk operations, and dashboard analytics. Transform your prompt collection into an organized, searchable library.",
    "topics": [],
@@ -2379,7 +2379,7 @@
     "prompt-engineering",
     "rag"
    ],
-   "category": "Guides & Courses",
+   "category": "System Prompts",
    "momentum": 51,
    "rank": 72
   },
@@ -3035,7 +3035,7 @@
     "llm-security",
     "prompt"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 38,
    "rank": 94
   },
@@ -3141,7 +3141,7 @@
     "terminal",
     "utility"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 37,
    "rank": 97
   },
@@ -4186,7 +4186,7 @@
     "prompt-engineering",
     "prompt-management"
    ],
-   "category": "Optimization & Tooling",
+   "category": "System Prompts",
    "momentum": 24,
    "rank": 135
   },
