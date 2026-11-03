@@ -18,7 +18,8 @@
     "sitemap.xml",
     "style.css",
     "fleet.css",
-    "fleet.js"
+    "fleet.js",
+    "vercel.json"
   ],
   "legacy_source_paths": [
     "p/0aicoder0-ultimate-chatgpt-image-and-nano-banana-pro-collection/index.html",
