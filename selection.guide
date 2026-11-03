@@ -1,0 +1,60 @@
+{
+  "host": "prompt.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose prompt resources for a task you can evaluate",
+  "answer": "Separate a prompt example, a system-instruction pack, an optimizer and an application framework. A prompt that reads well still needs evaluation with the model, tools and context where it will be used.",
+  "choices": [
+    {
+      "categories": [
+        "Prompt Packs",
+        "System Prompts",
+        "Image & Multimodal"
+      ],
+      "task": "Find a starting instruction",
+      "guidance": "Inspect provenance and intended model/task. Adapt the example to your input/output requirements and review tool-access assumptions."
+    },
+    {
+      "categories": [
+        "Optimization & Tooling",
+        "Frameworks"
+      ],
+      "task": "Improve a repeatable workflow",
+      "guidance": "Specify a scoring objective and held-out examples. Compare candidate prompts under the same model and generation settings."
+    },
+    {
+      "categories": [
+        "Guides & Courses",
+        "Collections"
+      ],
+      "task": "Learn or survey techniques",
+      "guidance": "Prefer examples with clear context and failure cases. Follow the primary source rather than treating a copied collection as independent validation."
+    }
+  ],
+  "checks": [
+    "Version prompts alongside model, tools and evaluation data.",
+    "Test ambiguous, adversarial and failure inputs within your permitted scope.",
+    "Report quality and cost against a reproducible baseline."
+  ],
+  "unknowns": "No universal prompt effectiveness, safety guarantee or optimization uplift is measured by this directory.",
+  "related": [
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    },
+    {
+      "url": "https://rag.kymatalabs.com/",
+      "label": "rag"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/prompt-index/blob/d0620cd4421548c06a684a01339933486493493e/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}

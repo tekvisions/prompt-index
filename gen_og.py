@@ -53,13 +53,13 @@ def main() -> int:
 
     d.rectangle([72, 80, 96, 104], fill=coral)
     d.text((112, 78), "THE PROMPT INDEX", font=f_kick, fill=ink)
-    d.text((72, 180), "The best", font=f_h1, fill=ink)
+    d.text((72, 180), "Explore", font=f_h1, fill=ink)
     # coral block behind "prompts"
     pw = d.textlength("prompts", font=f_h1)
     d.rectangle([72, 285, 72 + pw + 24, 385], fill=coral)
     d.text((84, 278), "prompts", font=f_h1, fill=bg)
-    d.text((72, 388), "are versioned.", font=f_h1, fill=ink)
-    d.text((72, 510), f"{count} resources  ·  {cats} categories  ·  ranked daily by GitHub momentum",
+    d.text((72, 388), "and workflows.", font=f_h1, fill=ink)
+    d.text((72, 510), f"{count} resources  ·  {cats} categories  ·  dated GitHub activity",
            font=f_stat, fill=muted)
     img.save(os.path.join(HERE, "og.png"))
     print(f"wrote og.png ({count} resources)")
