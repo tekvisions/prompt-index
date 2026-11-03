@@ -2,7 +2,7 @@
 
 > The Prompt Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T18:57:10.855843+00:00
+Snapshot collected: 2026-11-03T16:42:39.290137+00:00
 Current catalog records: 137
 
 ## Sources and interpretation
@@ -30,8 +30,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://prompt.kymatalabs.com/p/x1xhlol-system-prompts-and-models-of-ai-tools/) — System Prompts
 - [google/elephant-goldfish-model](https://prompt.kymatalabs.com/p/google-elephant-goldfish-model/) — Prompt Packs
 - [blader/humanizer](https://prompt.kymatalabs.com/p/blader-humanizer/) — Prompt Packs
+- [linshenkx/prompt-optimizer](https://prompt.kymatalabs.com/p/linshenkx-prompt-optimizer/) — System Prompts
 - [yihui-dev/awesome-opus5-5-videos](https://prompt.kymatalabs.com/p/yihui-dev-awesome-opus5-5-videos/) — Image & Multimodal
-- [linshenkx/prompt-optimizer](https://prompt.kymatalabs.com/p/linshenkx-prompt-optimizer/) — Optimization & Tooling
 - [mlflow/mlflow](https://prompt.kymatalabs.com/p/mlflow-mlflow/) — Optimization & Tooling
 - [comet-ml/opik](https://prompt.kymatalabs.com/p/comet-ml-opik/) — Optimization & Tooling
 - [elder-plinius/L1B3RT4S](https://prompt.kymatalabs.com/p/elder-plinius-l1b3rt4s/) — Prompt Packs
@@ -51,14 +51,14 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [ai-boost/awesome-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-prompts/) — Guides & Courses
 - [rockbenben/ChatGPT-Shortcut](https://prompt.kymatalabs.com/p/rockbenben-chatgpt-shortcut/) — Prompt Packs
 - [EvoMap/evolver](https://prompt.kymatalabs.com/p/evomap-evolver/) — Frameworks
+- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — Prompt Packs
 - [LearnPrompt/awesome-seedance](https://prompt.kymatalabs.com/p/learnprompt-awesome-seedance/) — Image & Multimodal
 - [NirDiamant/Prompt_Engineering](https://prompt.kymatalabs.com/p/nirdiamant-prompt-engineering/) — Guides & Courses
-- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — System Prompts
 - [promptslab/Awesome-Prompt-Engineering](https://prompt.kymatalabs.com/p/promptslab-awesome-prompt-engineering/) — Optimization & Tooling
-- [LouisShark/chatgpt_system_prompt](https://prompt.kymatalabs.com/p/louisshark-chatgpt-system-prompt/) — System Prompts
-- [soumatheusgomes/vibe-coding-toolkit](https://prompt.kymatalabs.com/p/soumatheusgomes-vibe-coding-toolkit/) — Frameworks
 - [youngyangyang04/llm-master](https://prompt.kymatalabs.com/p/youngyangyang04-llm-master/) — Guides & Courses
+- [LouisShark/chatgpt_system_prompt](https://prompt.kymatalabs.com/p/louisshark-chatgpt-system-prompt/) — System Prompts
 - [Moonvy/OpenPromptStudio](https://prompt.kymatalabs.com/p/moonvy-openpromptstudio/) — Prompt Packs
+- [soumatheusgomes/vibe-coding-toolkit](https://prompt.kymatalabs.com/p/soumatheusgomes-vibe-coding-toolkit/) — Frameworks
 - [DSXiangLi/DecryptPrompt](https://prompt.kymatalabs.com/p/dsxiangli-decryptprompt/) — Optimization & Tooling
 - [ai-boost/awesome-image-video-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-image-video-prompts/) — Image & Multimodal
 - [anthropics/prompt-eng-interactive-tutorial](https://prompt.kymatalabs.com/p/anthropics-prompt-eng-interactive-tutorial/) — Guides & Courses
