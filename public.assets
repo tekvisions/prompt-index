@@ -21,7 +21,8 @@
     "fleet.js",
     "vercel.json",
     "atlas.css",
-    "atlas.js"
+    "atlas.js",
+    "capabilities.json"
   ],
   "legacy_source_paths": [
     "p/0aicoder0-ultimate-chatgpt-image-and-nano-banana-pro-collection/index.html",
