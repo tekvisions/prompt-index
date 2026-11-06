@@ -2,7 +2,7 @@
 
 > The Prompt Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-05T20:41:18.394424+00:00
+Snapshot collected: 2026-11-06T16:27:38.436187+00:00
 Current catalog records: 136
 
 ## Sources and interpretation
@@ -23,12 +23,12 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 ## Current catalog sample
 
 - [f/prompts.chat](https://prompt.kymatalabs.com/p/f-prompts-chat/) — Collections
-- [DietrichGebert/ponytail](https://prompt.kymatalabs.com/p/dietrichgebert-ponytail/) — Prompt Packs
+- [DietrichGebert/ponytail](https://prompt.kymatalabs.com/p/dietrichgebert-ponytail/) — System Prompts
 - [JuliusBrussee/caveman](https://prompt.kymatalabs.com/p/juliusbrussee-caveman/) — Prompt Packs
 - [headroomlabs-ai/headroom](https://prompt.kymatalabs.com/p/headroomlabs-ai-headroom/) — Optimization & Tooling
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://prompt.kymatalabs.com/p/x1xhlol-system-prompts-and-models-of-ai-tools/) — System Prompts
 - [asgeirtj/system_prompts_leaks](https://prompt.kymatalabs.com/p/asgeirtj-system-prompts-leaks/) — System Prompts
-- [google/elephant-goldfish-model](https://prompt.kymatalabs.com/p/google-elephant-goldfish-model/) — Prompt Packs
+- [google/elephant-goldfish-model](https://prompt.kymatalabs.com/p/google-elephant-goldfish-model/) — System Prompts
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://prompt.kymatalabs.com/p/x1xhlol-system-prompts-and-models-of-ai-tools/) — System Prompts
 - [blader/humanizer](https://prompt.kymatalabs.com/p/blader-humanizer/) — Prompt Packs
 - [linshenkx/prompt-optimizer](https://prompt.kymatalabs.com/p/linshenkx-prompt-optimizer/) — System Prompts
 - [yihui-dev/awesome-opus5-5-videos](https://prompt.kymatalabs.com/p/yihui-dev-awesome-opus5-5-videos/) — Image & Multimodal
@@ -38,9 +38,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [elder-plinius/L1B3RT4S](https://prompt.kymatalabs.com/p/elder-plinius-l1b3rt4s/) — Prompt Packs
 - [dipakkr/awesome-ai-engineering](https://prompt.kymatalabs.com/p/dipakkr-awesome-ai-engineering/) — Optimization & Tooling
 - [AI4Finance-Foundation/FinGPT](https://prompt.kymatalabs.com/p/ai4finance-foundation-fingpt/) — Prompt Packs
+- [Imbad0202/academic-research-skills-codex](https://prompt.kymatalabs.com/p/imbad0202-academic-research-skills-codex/) — Frameworks
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://prompt.kymatalabs.com/p/youmind-openlab-awesome-nano-banana-pro-prompts/) — Image & Multimodal
 - [Piebald-AI/claude-code-system-prompts](https://prompt.kymatalabs.com/p/piebald-ai-claude-code-system-prompts/) — System Prompts
-- [Imbad0202/academic-research-skills-codex](https://prompt.kymatalabs.com/p/imbad0202-academic-research-skills-codex/) — Frameworks
 - [EmbraceAGI/awesome-chatgpt-zh](https://prompt.kymatalabs.com/p/embraceagi-awesome-chatgpt-zh/) — Collections
 - [cobusgreyling/loop-engineering](https://prompt.kymatalabs.com/p/cobusgreyling-loop-engineering/) — Frameworks
 - [ZeroLu/awesome-nanobanana-pro](https://prompt.kymatalabs.com/p/zerolu-awesome-nanobanana-pro/) — Guides & Courses
@@ -53,7 +53,7 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [EvoMap/evolver](https://prompt.kymatalabs.com/p/evomap-evolver/) — Frameworks
 - [LearnPrompt/awesome-seedance](https://prompt.kymatalabs.com/p/learnprompt-awesome-seedance/) — Image & Multimodal
 - [NirDiamant/Prompt_Engineering](https://prompt.kymatalabs.com/p/nirdiamant-prompt-engineering/) — Guides & Courses
-- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — System Prompts
+- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — Prompt Packs
 - [promptslab/Awesome-Prompt-Engineering](https://prompt.kymatalabs.com/p/promptslab-awesome-prompt-engineering/) — Optimization & Tooling
 - [LouisShark/chatgpt_system_prompt](https://prompt.kymatalabs.com/p/louisshark-chatgpt-system-prompt/) — System Prompts
 - [soumatheusgomes/vibe-coding-toolkit](https://prompt.kymatalabs.com/p/soumatheusgomes-vibe-coding-toolkit/) — Frameworks
@@ -61,7 +61,7 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Moonvy/OpenPromptStudio](https://prompt.kymatalabs.com/p/moonvy-openpromptstudio/) — Prompt Packs
 - [DSXiangLi/DecryptPrompt](https://prompt.kymatalabs.com/p/dsxiangli-decryptprompt/) — Optimization & Tooling
 - [ai-boost/awesome-image-video-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-image-video-prompts/) — Image & Multimodal
-- [anthropics/prompt-eng-interactive-tutorial](https://prompt.kymatalabs.com/p/anthropics-prompt-eng-interactive-tutorial/) — Guides & Courses
+- [dottxt-ai/outlines](https://prompt.kymatalabs.com/p/dottxt-ai-outlines/) — Prompt Packs
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
