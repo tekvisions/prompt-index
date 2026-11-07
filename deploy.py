@@ -12,6 +12,8 @@ Env:
 """
 import hashlib, json, os, sys, urllib.request, urllib.error
 from public_assets import collect_public_files
+import http.client, socket, ssl, time
+from urllib.parse import urlsplit
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TOKEN = os.environ.get("VERCEL_TOKEN", "").strip()
@@ -22,12 +24,28 @@ EXPECTED_PROJECT_NAME = "prompt-index"
 
 
 def req(url, data=None, headers=None, method=None):
-    r = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
-    try:
-        with urllib.request.urlopen(r, timeout=60) as resp:
-            return resp.status, resp.read()
-    except urllib.error.HTTPError as e:
-        return e.code, e.read()
+    parsed = urlsplit(url)
+    effective_method = method or ('POST' if data is not None else 'GET')
+    # Only Vercel reads and content-addressed uploads can be repeated safely.
+    # Deployment creation and HTTP denials always keep their original outcome.
+    safe_retry = parsed.hostname == 'api.vercel.com' and (
+        effective_method == 'GET' or
+        (effective_method == 'POST' and parsed.path == '/v2/files')
+    )
+    attempts = 3 if safe_retry else 1
+    for attempt in range(attempts):
+        r = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
+        try:
+            with urllib.request.urlopen(r, timeout=60) as resp:
+                return resp.status, resp.read()
+        except urllib.error.HTTPError as e:
+            return e.code, e.read()
+        except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.RemoteDisconnected) as e:
+            reason = e.reason if isinstance(e, urllib.error.URLError) else e
+            transient = isinstance(reason, (TimeoutError, ConnectionError, socket.timeout, http.client.RemoteDisconnected))
+            if isinstance(reason, ssl.SSLError) or not transient or attempt == attempts - 1:
+                raise
+            time.sleep(2 ** attempt)
 
 
 
