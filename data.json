@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-07T16:31:16.836317+00:00",
+ "generated_at": "2026-11-07T16:44:55.546238+00:00",
  "count": 137,
  "categories": [
   {
    "name": "Optimization & Tooling",
-   "count": 33
-  },
-  {
-   "name": "System Prompts",
-   "count": 25
+   "count": 34
   },
   {
    "name": "Prompt Packs",
-   "count": 23
+   "count": 25
+  },
+  {
+   "name": "System Prompts",
+   "count": 21
   },
   {
    "name": "Guides & Courses",
@@ -28,7 +28,7 @@
   },
   {
    "name": "Frameworks",
-   "count": 8
+   "count": 9
   }
  ],
  "items": [
@@ -39,8 +39,8 @@
    "url": "https://github.com/f/prompts.chat",
    "owner": "f",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-   "stars": 176184,
-   "forks": 22465,
+   "stars": 176186,
+   "forks": 22466,
    "open_issues": 81,
    "language": "MDX",
    "license": "NOASSERTION",
@@ -78,7 +78,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 186219,
+   "stars": 186225,
    "forks": 10305,
    "open_issues": 184,
    "language": "JavaScript",
@@ -109,8 +109,8 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 118121,
-   "forks": 6870,
+   "stars": 118125,
+   "forks": 6868,
    "open_issues": 66,
    "language": "Go",
    "license": "Apache-2.0",
@@ -140,7 +140,7 @@
    "url": "https://github.com/headroomlabs-ai/headroom",
    "owner": "headroomlabs-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/294291659?v=4",
-   "stars": 79066,
+   "stars": 79068,
    "forks": 6179,
    "open_issues": 292,
    "language": "Python",
@@ -181,8 +181,8 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 70977,
-   "forks": 11462,
+   "stars": 70978,
+   "forks": 11463,
    "open_issues": 22,
    "language": "Python",
    "license": "CC0-1.0",
@@ -222,8 +222,8 @@
    "url": "https://github.com/google/elephant-goldfish-model",
    "owner": "google",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 13537,
-   "forks": 1000,
+   "stars": 13553,
+   "forks": 1003,
    "open_issues": 80,
    "language": "Python",
    "license": "Apache-2.0",
@@ -259,8 +259,8 @@
    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
    "owner": "x1xhlol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4",
-   "stars": 144538,
-   "forks": 34695,
+   "stars": 144539,
+   "forks": 34696,
    "open_issues": 162,
    "language": "",
    "license": "GPL-3.0",
@@ -300,7 +300,7 @@
    "url": "https://github.com/blader/humanizer",
    "owner": "blader",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
-   "stars": 65906,
+   "stars": 65912,
    "forks": 5210,
    "open_issues": 16,
    "language": "Python",
@@ -334,7 +334,7 @@
    "url": "https://github.com/linshenkx/prompt-optimizer",
    "owner": "linshenkx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32978552?v=4",
-   "stars": 40830,
+   "stars": 40832,
    "forks": 4606,
    "open_issues": 4,
    "language": "TypeScript",
@@ -435,7 +435,7 @@
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
    "owner": "yihui-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26054274?v=4",
-   "stars": 14012,
+   "stars": 14015,
    "forks": 1475,
    "open_issues": 11,
    "language": "",
@@ -571,7 +571,7 @@
    "url": "https://github.com/Imbad0202/academic-research-skills-codex",
    "owner": "Imbad0202",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132531341?v=4",
-   "stars": 14169,
+   "stars": 14170,
    "forks": 613,
    "open_issues": 1,
    "language": "Python",
@@ -810,7 +810,7 @@
    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
    "owner": "YouMind-OpenLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/245655810?v=4",
-   "stars": 10252,
+   "stars": 10253,
    "forks": 896,
    "open_issues": 3,
    "language": "TypeScript",
@@ -847,7 +847,7 @@
    "url": "https://github.com/elder-plinius/CL4R1T4S",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 51816,
+   "stars": 51817,
    "forks": 10560,
    "open_issues": 123,
    "language": "",
@@ -888,8 +888,8 @@
    "url": "https://github.com/nidhinjs/prompt-master",
    "owner": "nidhinjs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254035488?v=4",
-   "stars": 15644,
-   "forks": 1805,
+   "stars": 15647,
+   "forks": 1806,
    "open_issues": 30,
    "language": "",
    "license": "MIT",
@@ -1002,7 +1002,7 @@
     "prompt-templates",
     "prompts"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 73,
    "rank": 28
   },
@@ -1077,7 +1077,7 @@
     "prompt-toolkit",
     "rust"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 72,
    "rank": 30
   },
@@ -1088,9 +1088,9 @@
    "url": "https://github.com/gepa-ai/gepa",
    "owner": "gepa-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/224673167?v=4",
-   "stars": 7327,
+   "stars": 7328,
    "forks": 611,
-   "open_issues": 154,
+   "open_issues": 155,
    "language": "Jupyter Notebook",
    "license": "MIT",
    "pushed_at": "2026-11-07T03:23:54Z",
@@ -1167,7 +1167,7 @@
    "url": "https://github.com/LearnPrompt/awesome-seedance",
    "owner": "LearnPrompt",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131418633?v=4",
-   "stars": 2466,
+   "stars": 2467,
    "forks": 381,
    "open_issues": 2,
    "language": "JavaScript",
@@ -1322,7 +1322,7 @@
    "url": "https://github.com/ai-boost/awesome-image-video-prompts",
    "owner": "ai-boost",
    "owner_avatar": "https://avatars.githubusercontent.com/u/70333750?v=4",
-   "stars": 3451,
+   "stars": 3452,
    "forks": 244,
    "open_issues": 1,
    "language": "Python",
@@ -1414,7 +1414,7 @@
     "llm-agents",
     "prompts"
    ],
-   "category": "System Prompts",
+   "category": "Frameworks",
    "momentum": 69,
    "rank": 40
   },
@@ -2032,10 +2032,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/331618463?v=4",
    "stars": 203,
    "forks": 26,
-   "open_issues": 16,
+   "open_issues": 14,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-11-07T16:13:38Z",
+   "pushed_at": "2026-11-07T16:37:55Z",
    "created_at": "2026-07-24T13:48:05Z",
    "description": "Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, prompts, harnesses). Diffs are the gradients; the aggregator is the optimizer.",
    "topics": [
@@ -2915,7 +2915,7 @@
    "url": "https://github.com/thunlp/OpenPrompt",
    "owner": "thunlp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18389035?v=4",
-   "stars": 4910,
+   "stars": 4911,
    "forks": 477,
    "open_issues": 101,
    "language": "Python",
@@ -2941,7 +2941,7 @@
     "pytorch",
     "transformer"
    ],
-   "category": "System Prompts",
+   "category": "Optimization & Tooling",
    "momentum": 39,
    "rank": 91
   },

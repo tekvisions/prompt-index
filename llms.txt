@@ -2,7 +2,7 @@
 
 > The Prompt Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-07T16:31:16.836317+00:00
+Snapshot collected: 2026-11-07T16:44:55.546238+00:00
 Current catalog records: 137
 
 ## Sources and interpretation
@@ -49,9 +49,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [nidhinjs/prompt-master](https://prompt.kymatalabs.com/p/nidhinjs-prompt-master/) — Prompt Packs
 - [microsoft/promptflow](https://prompt.kymatalabs.com/p/microsoft-promptflow/) — Prompt Packs
 - [ai-boost/awesome-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-prompts/) — Guides & Courses
-- [rockbenben/ChatGPT-Shortcut](https://prompt.kymatalabs.com/p/rockbenben-chatgpt-shortcut/) — System Prompts
+- [rockbenben/ChatGPT-Shortcut](https://prompt.kymatalabs.com/p/rockbenben-chatgpt-shortcut/) — Prompt Packs
 - [EvoMap/evolver](https://prompt.kymatalabs.com/p/evomap-evolver/) — Frameworks
-- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — System Prompts
+- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — Prompt Packs
 - [gepa-ai/gepa](https://prompt.kymatalabs.com/p/gepa-ai-gepa/) — Optimization & Tooling
 - [promptslab/Awesome-Prompt-Engineering](https://prompt.kymatalabs.com/p/promptslab-awesome-prompt-engineering/) — Optimization & Tooling
 - [LearnPrompt/awesome-seedance](https://prompt.kymatalabs.com/p/learnprompt-awesome-seedance/) — Image & Multimodal
@@ -61,7 +61,7 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Moonvy/OpenPromptStudio](https://prompt.kymatalabs.com/p/moonvy-openpromptstudio/) — Prompt Packs
 - [ai-boost/awesome-image-video-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-image-video-prompts/) — Image & Multimodal
 - [DSXiangLi/DecryptPrompt](https://prompt.kymatalabs.com/p/dsxiangli-decryptprompt/) — Optimization & Tooling
-- [soumatheusgomes/vibe-coding-toolkit](https://prompt.kymatalabs.com/p/soumatheusgomes-vibe-coding-toolkit/) — System Prompts
+- [soumatheusgomes/vibe-coding-toolkit](https://prompt.kymatalabs.com/p/soumatheusgomes-vibe-coding-toolkit/) — Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
