@@ -98,5 +98,87 @@ class RetentionChurnTests(unittest.TestCase):
                 url_lifecycle.render_retained(root)
             self.assertEqual(outside.read_text(), 'preserve')
 
+class November7RetentionTests(unittest.TestCase):
+    def fixture(self, directory, use_reviewed_entries=False):
+        root = Path(directory).resolve()
+        rules = json.loads((ROOT / 'url.lifecycle').read_text())
+        expected = json.loads((ROOT / 'tests/fixtures/retention-20261107.json').read_text())
+        if use_reviewed_entries:
+            rules['retained_references'] = expected['entries']
+        missing = {e['canonical_url'] for e in expected['entries']}
+        protected = set(rules['captured_public_urls']) | set(rules.get('planned_release_urls', []))
+        self.assertTrue(missing <= protected)
+        (root / 'url.lifecycle').write_text(json.dumps(rules))
+        (root / 'data.json').write_text(json.dumps({'models' if rules['detail_prefix']=='m' else 'items': []}))
+        (root / 'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join('<url><loc>' + u + '</loc></url>' for u in sorted(protected - missing)) + '</urlset>')
+        return root, rules, expected
+
+    def test_reported_routes_survive_rotation_and_unknown_removal_still_blocks(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root, rules, expected = self.fixture(directory)
+            with self.assertRaisesRegex(ValueError, 'retention/retirement'):
+                url_lifecycle.verify(root)
+            url_lifecycle.render_retained(root)
+            for e in expected['entries']:
+                self.assertIn(e['canonical_url'], url_lifecycle.urls(root), 'Reported route needs reviewed retention')
+            self.assertEqual(url_lifecycle.verify(root)['explicitly_retired'], [])
+            rules['captured_public_urls'].append('https://' + rules['host'] + '/' + rules['detail_prefix'] + '/unreviewed-november7-removal/')
+            (root / 'url.lifecycle').write_text(json.dumps(rules))
+            with self.assertRaisesRegex(ValueError, 'retention/retirement'):
+                url_lifecycle.verify(root)
+
+    def test_reviewed_schema_dates_identity_and_source_availability(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root, rules, expected = self.fixture(directory, use_reviewed_entries=True)
+            url_lifecycle.render_retained(root)
+            for e in expected['entries']:
+                body = (root / e['canonical_url'].split('.com/',1)[1] / 'index.html').read_text()
+                self.assertIn('retained reference | ' + rules['site_name'], body)
+                self.assertIn('rel="canonical" href="' + e['canonical_url'] + '"', body)
+                self.assertIn(expected['saved_snapshot'], body)
+                self.assertEqual(e['last_catalog_snapshot'], expected['saved_snapshot'])
+                self.assertIn(e['primary_sources'][0]['url'], body)
+                self.assertNotIn('aggregateRating', body)
+                self.assertNotIn('class="rk"', body)
+                schema = json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>', body, re.S)[1])
+                self.assertEqual(schema['@type'], e['schema_type'])
+                self.assertEqual(schema['codeRepository' if e['schema_type']=='SoftwareSourceCode' else 'sameAs'], e['repository'])
+                if e.get('source_status')=='historical_unavailable':
+                    self.assertIn('Publisher availability checked:', body)
+                    self.assertNotIn('Primary documentation reviewed:', body)
+
+    def test_previous_references_and_protection_policy_are_unchanged(self):
+        import hashlib
+        rules = json.loads((ROOT / 'url.lifecycle').read_text())
+        expected = json.loads((ROOT / 'tests/fixtures/retention-20261107.json').read_text())
+        self.assertEqual(hashlib.sha256(json.dumps({k:v for k,v in rules.items() if k!='retained_references'}, sort_keys=True).encode()).hexdigest(), expected['policy_sha256'])
+        self.assertEqual(rules['retained_references'][:len(expected['previous_references'])], expected['previous_references'])
+
+    def test_reentry_keeps_ranked_generator_output(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root, rules, expected = self.fixture(directory)
+            (root / 'data.json').write_text(json.dumps({'models' if rules['detail_prefix']=='m' else 'items':[{'slug':e['slug']} for e in expected['entries']]}))
+            for e in expected['entries']:
+                path = root / e['canonical_url'].split('.com/',1)[1] / 'index.html'
+                path.parent.mkdir(parents=True); path.write_text('current ranked generator output')
+            url_lifecycle.render_retained(root)
+            for e in expected['entries']:
+                self.assertEqual((root / e['canonical_url'].split('.com/',1)[1] / 'index.html').read_text(), 'current ranked generator output')
+
+
+
+    def test_unsupported_review_controls_fail_before_reference_output(self):
+        cases = [('schema_type','Organization')]
+        if RULES['host']=='prompt.kymatalabs.com':
+            cases += [('source_status','guessed'),('schema_type','SoftwareSourceCode')]
+        for key, value in cases:
+            with self.subTest(key=key,value=value), tempfile.TemporaryDirectory() as directory:
+                root, rules, expected = self.fixture(directory, use_reviewed_entries=True)
+                rules['retained_references'][0][key] = value
+                (root / 'url.lifecycle').write_text(json.dumps(rules))
+                with self.assertRaises(ValueError):
+                    url_lifecycle.render_retained(root)
+                self.assertFalse((root / rules['detail_prefix']).exists())
+
 if __name__ == '__main__':
     unittest.main()

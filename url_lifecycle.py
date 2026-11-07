@@ -57,9 +57,17 @@ def render_retained(root=ROOT):
             source = urlparse(source_url)
             if source.scheme != 'https' or not source.hostname or source.username or source.password:
                 raise ValueError('Retained reference requires explicit HTTPS primary sources')
+        source_status = entry.get('source_status', 'available')
+        if source_status not in {'available', 'historical_unavailable'}:
+            raise ValueError('Retained source status must be explicitly supported')
+        historical = source_status == 'historical_unavailable'
+        review_label = 'Publisher availability checked' if historical else 'Primary documentation reviewed'
+        source_heading = 'Sources and provenance' if historical else 'Primary sources'
         schema_type = entry.get('schema_type', 'CreativeWork' if detail_prefix == 'm' else 'SoftwareSourceCode')
         if schema_type not in {'SoftwareSourceCode', 'CreativeWork'}:
             raise ValueError('Retained reference schema type must be explicitly supported')
+        if historical and schema_type != 'CreativeWork':
+            raise ValueError('Unavailable-source references require CreativeWork schema')
         description = entry['summary']
         schema = {'@context': 'https://schema.org', '@type': schema_type,
                   'name': entry['entity'], 'url': canonical,
@@ -77,9 +85,9 @@ def render_retained(root=ROOT):
                 '<h2>What the status means</h2><p>This URL was already published and is kept for its documented subject. '
                 'Leaving a search/discovery window does not establish that a project is obsolete. This page does not assign a current rank, trending score, momentum score or capability certification.</p>'
                 f'<p>Catalog snapshot supporting this reference: <time datetime="{esc(entry["last_catalog_snapshot"])}">{esc(entry["last_catalog_snapshot"])}</time>. '
-                f'Primary documentation reviewed: <time datetime="{esc(entry["reviewed_on"])}">{esc(entry["reviewed_on"])}</time>. '
+                f'{review_label}: <time datetime="{esc(entry["reviewed_on"])}">{esc(entry["reviewed_on"])}</time>. '
                 'Those dates describe different checks; no runtime benchmark or installation test is claimed.</p>'
-                f'<h2>Limits to verify</h2><p>{esc(entry["limitations"])}</p><h2>Primary sources</h2><ul>{sources}</ul>'
+                f'<h2>Limits to verify</h2><p>{esc(entry["limitations"])}</p><h2>{source_heading}</h2><ul>{sources}</ul>'
                 '<p><a href="/">Browse the current ranked catalog</a> · <a href="https://indexes.kymatalabs.com/">The Living Indexes</a></p>'
                 '</main><footer><div class="wrap"><a href="/privacy.html">Privacy and advertising</a></div></footer></body></html>\n')
         target = root / parsed.path.lstrip('/') / 'index.html'

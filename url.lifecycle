@@ -177,6 +177,32 @@
           "title": "severian42/GraphRAG-Local-UI publisher README"
         }
       ]
+    },
+    {
+      "slug": "aidotnet-auto-prompt",
+      "entity": "AIDotNet/auto-prompt",
+      "canonical_url": "https://prompt.kymatalabs.com/p/aidotnet-auto-prompt/",
+      "repository": "https://github.com/AIDotNet/auto-prompt",
+      "summary": "The saved 6 November 2026 catalog described Auto-Prompt as a prompt-optimization platform with debugging and sharing features. Its upstream repository metadata returned 404 during the 7 November review; current capabilities and maintenance are unconfirmed.",
+      "selection_context": "Trace the previously published catalog entry and its original publisher identifier.",
+      "limitations": "The 404 response does not establish whether the repository moved, became private or was removed. Current documentation, installation instructions and licensing could not be verified. No prompt-quality or runtime test is claimed.",
+      "schema_type": "CreativeWork",
+      "last_catalog_snapshot": "2026-11-06T16:27:38.436187+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "d373f3feff292397c691feebb4ef5075fe4cd7ac",
+      "decision": "Retain the published route as a dated unranked reference when absent from current discovery.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/AIDotNet/auto-prompt",
+          "title": "Historical publisher repository — metadata returned 404 on 7 November 2026",
+          "observed_http_status": 404
+        },
+        {
+          "url": "https://github.com/tekvisions/prompt-index/blob/d373f3feff292397c691feebb4ef5075fe4cd7ac/data.json",
+          "title": "Saved November 6 catalog provenance"
+        }
+      ],
+      "source_status": "historical_unavailable"
     }
   ],
   "retirements": [],
