@@ -1,0 +1,30 @@
+{
+  "unchanged_policy_sha256": "66ab41475f0e927651f20589a064163e538e04ae86bf50ef74698c1d7fc2ccb6",
+  "previous_reference_count": 3,
+  "previous_references_sha256": "48c3ec6afbca602e6a912510d7ea606214bfa598625e34b8b194cf77d810420a",
+  "entries": [
+    {
+      "slug": "evomap-evolver",
+      "entity": "EvoMap/evolver",
+      "canonical_url": "https://prompt.kymatalabs.com/p/evomap-evolver/",
+      "repository": "https://github.com/EvoMap/evolver",
+      "summary": "Evolver documents a GEP-based agent prompt-generation engine that reads local experience signals, selects reusable Genes or Capsules and emits prompts with an audit trail. Its README distinguishes standalone prompt generation from actions performed by a host runtime.",
+      "selection_context": "Evaluate the documented prompt-governance and experience-reuse workflow, including review mode and the optional EvoMap network connection.",
+      "limitations": "Review access to project logs, hooks and any optional network sharing or worker tasks. The README announces a future transition to source-available releases and says core engine modules are obfuscated; verify the exact release and applicable license. Security, improvement claims and runtime behavior were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T16:44:55.546238+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "1f5328326a3ccac1a419075e943ad2af21077505",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/EvoMap/evolver/blob/31b0691acd97ba18878019312e646f1f2d970d43/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "31b0691acd97ba18878019312e646f1f2d970d43",
+          "blob_sha": "f3d760870f7de492b3d26efe2ee1e86674c7dc48",
+          "evidence_sha256": "6df15a67995378b52ccae213a01c07b6a6e1bd812803f89d7d8cebb3c7fe81a5"
+        }
+      ]
+    }
+  ]
+}
