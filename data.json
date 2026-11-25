@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-25T21:00:14.819625+00:00",
+ "generated_at": "2026-11-25T22:04:28.145337+00:00",
  "count": 140,
  "categories": [
   {
    "name": "Optimization & Tooling",
-   "count": 32
+   "count": 33
   },
   {
    "name": "Prompt Packs",
-   "count": 26
+   "count": 28
   },
   {
    "name": "System Prompts",
-   "count": 25
+   "count": 22
   },
   {
    "name": "Image & Multimodal",
-   "count": 19
+   "count": 20
   },
   {
    "name": "Guides & Courses",
@@ -24,11 +24,11 @@
   },
   {
    "name": "Collections",
-   "count": 13
+   "count": 14
   },
   {
    "name": "Frameworks",
-   "count": 7
+   "count": 5
   }
  ],
  "items": [
@@ -39,9 +39,9 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 198654,
+   "stars": 198670,
    "forks": 11271,
-   "open_issues": 335,
+   "open_issues": 336,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-11-22T02:31:58Z",
@@ -70,7 +70,7 @@
    "url": "https://github.com/f/prompts.chat",
    "owner": "f",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
-   "stars": 178511,
+   "stars": 178513,
    "forks": 22754,
    "open_issues": 98,
    "language": "MDX",
@@ -109,8 +109,8 @@
    "url": "https://github.com/JuliusBrussee/caveman",
    "owner": "JuliusBrussee",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4",
-   "stars": 122826,
-   "forks": 7176,
+   "stars": 122836,
+   "forks": 7177,
    "open_issues": 107,
    "language": "Go",
    "license": "Apache-2.0",
@@ -140,8 +140,8 @@
    "url": "https://github.com/JuneYaooo/rea-video",
    "owner": "JuneYaooo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60815510?v=4",
-   "stars": 13349,
-   "forks": 1949,
+   "stars": 13362,
+   "forks": 1951,
    "open_issues": 8,
    "language": "Python",
    "license": "Apache-2.0",
@@ -179,12 +179,12 @@
    "url": "https://github.com/headroomlabs-ai/headroom",
    "owner": "headroomlabs-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/294291659?v=4",
-   "stars": 80856,
-   "forks": 6346,
-   "open_issues": 334,
+   "stars": 80861,
+   "forks": 6345,
+   "open_issues": 335,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:59:25Z",
+   "pushed_at": "2026-11-25T21:52:33Z",
    "created_at": "2026-01-07T19:58:51Z",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "topics": [
@@ -220,8 +220,8 @@
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "owner": "asgeirtj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/27446620?v=4",
-   "stars": 72638,
-   "forks": 11699,
+   "stars": 72639,
+   "forks": 11700,
    "open_issues": 27,
    "language": "Python",
    "license": "CC0-1.0",
@@ -261,8 +261,8 @@
    "url": "https://github.com/google/elephant-goldfish-model",
    "owner": "google",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 23005,
-   "forks": 1699,
+   "stars": 23012,
+   "forks": 1700,
    "open_issues": 162,
    "language": "Python",
    "license": "Apache-2.0",
@@ -298,7 +298,7 @@
    "url": "https://github.com/blader/humanizer",
    "owner": "blader",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
-   "stars": 73553,
+   "stars": 73563,
    "forks": 5773,
    "open_issues": 9,
    "language": "Python",
@@ -404,7 +404,7 @@
    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
    "owner": "freestylefly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43960064?v=4",
-   "stars": 36132,
+   "stars": 36133,
    "forks": 3420,
    "open_issues": 11,
    "language": "JavaScript",
@@ -435,8 +435,8 @@
    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
    "owner": "x1xhlol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4",
-   "stars": 144857,
-   "forks": 34630,
+   "stars": 144860,
+   "forks": 34631,
    "open_issues": 161,
    "language": "",
    "license": "GPL-3.0",
@@ -476,7 +476,7 @@
    "url": "https://github.com/elder-plinius/CL4R1T4S",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 53818,
+   "stars": 53819,
    "forks": 11241,
    "open_issues": 123,
    "language": "",
@@ -519,10 +519,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/39938107?v=4",
    "stars": 28968,
    "forks": 6658,
-   "open_issues": 2252,
+   "open_issues": 2255,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T14:54:32Z",
+   "pushed_at": "2026-11-25T21:43:54Z",
    "created_at": "2018-06-05T16:05:58Z",
    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
    "topics": [
@@ -558,10 +558,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
    "stars": 23513,
    "forks": 1972,
-   "open_issues": 219,
+   "open_issues": 217,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:59:20Z",
+   "pushed_at": "2026-11-25T21:53:37Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -651,7 +651,7 @@
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
    "owner": "yihui-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26054274?v=4",
-   "stars": 16496,
+   "stars": 16499,
    "forks": 1771,
    "open_issues": 14,
    "language": "",
@@ -718,7 +718,7 @@
    "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
    "owner": "Piebald-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/216247589?v=4",
-   "stars": 13227,
+   "stars": 13229,
    "forks": 2045,
    "open_issues": 9,
    "language": "JavaScript",
@@ -782,7 +782,7 @@
    "url": "https://github.com/cobusgreyling/loop-engineering",
    "owner": "cobusgreyling",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7868717?v=4",
-   "stars": 11836,
+   "stars": 11837,
    "forks": 1585,
    "open_issues": 25,
    "language": "TypeScript",
@@ -809,7 +809,7 @@
     "mcp",
     "prompt-engineering"
    ],
-   "category": "Frameworks",
+   "category": "System Prompts",
    "momentum": 74,
    "rank": 22
   },
@@ -820,9 +820,9 @@
    "url": "https://github.com/microsoft/promptflow",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 11276,
+   "stars": 11277,
    "forks": 1126,
-   "open_issues": 69,
+   "open_issues": 67,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-11-22T21:33:23Z",
@@ -1053,7 +1053,7 @@
    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
    "owner": "promptslab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120981762?v=4",
-   "stars": 6456,
+   "stars": 6457,
    "forks": 802,
    "open_issues": 143,
    "language": "TypeScript",
@@ -1196,7 +1196,7 @@
    "url": "https://github.com/LearnPrompt/awesome-seedance",
    "owner": "LearnPrompt",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131418633?v=4",
-   "stars": 2649,
+   "stars": 2650,
    "forks": 397,
    "open_issues": 0,
    "language": "JavaScript",
@@ -1265,7 +1265,7 @@
    "url": "https://github.com/nidhinjs/prompt-master",
    "owner": "nidhinjs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254035488?v=4",
-   "stars": 16321,
+   "stars": 16323,
    "forks": 1871,
    "open_issues": 33,
    "language": "",
@@ -1378,7 +1378,7 @@
     "prompt-toolkit",
     "rust"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 69,
    "rank": 39
   },
@@ -1426,7 +1426,7 @@
    "url": "https://github.com/ai-boost/awesome-image-video-prompts",
    "owner": "ai-boost",
    "owner_avatar": "https://avatars.githubusercontent.com/u/70333750?v=4",
-   "stars": 3526,
+   "stars": 3528,
    "forks": 252,
    "open_issues": 1,
    "language": "Python",
@@ -1640,7 +1640,7 @@
    "open_issues": 5,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-11-25T07:51:53Z",
+   "pushed_at": "2026-11-25T21:26:08Z",
    "created_at": "2026-04-07T02:50:46Z",
    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators on X.",
    "topics": [
@@ -1719,7 +1719,7 @@
     "prompt-engineering",
     "prompt-learning"
    ],
-   "category": "System Prompts",
+   "category": "Collections",
    "momentum": 67,
    "rank": 49
   },
@@ -1787,7 +1787,7 @@
     "llm-agents",
     "prompts"
    ],
-   "category": "Frameworks",
+   "category": "System Prompts",
    "momentum": 66,
    "rank": 51
   },
@@ -1823,8 +1823,8 @@
    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
    "owner": "anthropics",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
-   "stars": 39767,
-   "forks": 4431,
+   "stars": 39774,
+   "forks": 4432,
    "open_issues": 69,
    "language": "Jupyter Notebook",
    "license": "",
@@ -2047,7 +2047,7 @@
    "url": "https://github.com/joeseesun/opus-video-prompts",
    "owner": "joeseesun",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3236682?v=4",
-   "stars": 1227,
+   "stars": 1228,
    "forks": 125,
    "open_issues": 0,
    "language": "",
@@ -2432,7 +2432,7 @@
     "text-to-image",
     "visual-ai"
    ],
-   "category": "System Prompts",
+   "category": "Image & Multimodal",
    "momentum": 53,
    "rank": 73
   },
@@ -2511,8 +2511,8 @@
    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
    "owner": "dair-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30384625?v=4",
-   "stars": 80365,
-   "forks": 8789,
+   "stars": 80366,
+   "forks": 8790,
    "open_issues": 296,
    "language": "MDX",
    "license": "MIT",
@@ -2595,7 +2595,7 @@
     "text-to-image"
    ],
    "category": "Image & Multimodal",
-   "momentum": 51,
+   "momentum": 50,
    "rank": 78
   },
   {
@@ -2674,7 +2674,7 @@
    "url": "https://github.com/humanlayer/12-factor-agents",
    "owner": "humanlayer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/177409041?v=4",
-   "stars": 27421,
+   "stars": 27423,
    "forks": 2065,
    "open_issues": 29,
    "language": "TypeScript",
@@ -3052,7 +3052,7 @@
     "pytorch",
     "transformer"
    ],
-   "category": "System Prompts",
+   "category": "Optimization & Tooling",
    "momentum": 38,
    "rank": 94
   },
@@ -3456,7 +3456,7 @@
     "prompts",
     "prompts-cn"
    ],
-   "category": "System Prompts",
+   "category": "Prompt Packs",
    "momentum": 35,
    "rank": 107
   },
