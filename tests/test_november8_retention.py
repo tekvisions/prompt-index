@@ -61,7 +61,8 @@ class November8RetentionTests(unittest.TestCase):
         expected = json.loads((ROOT / 'tests/fixtures/retention-additions-20261108.json').read_text())
         self.assertEqual(digest({k:v for k,v in rules.items() if k != 'retained_references'}), expected['unchanged_policy_sha256'])
         self.assertEqual(digest(rules['retained_references'][:expected['previous_reference_count']]), expected['previous_references_sha256'])
-        self.assertEqual(rules['retained_references'][expected['previous_reference_count']:], expected['entries'])
+        start = expected['previous_reference_count']
+        self.assertEqual(rules['retained_references'][start:start + len(expected['entries'])], expected['entries'])
         self.assertEqual(len({e['slug'] for e in rules['retained_references']}), len(rules['retained_references']))
 
     def test_new_sources_are_pinned_to_reviewed_revisions(self):

@@ -226,6 +226,95 @@
           "evidence_sha256": "6df15a67995378b52ccae213a01c07b6a6e1bd812803f89d7d8cebb3c7fe81a5"
         }
       ]
+    },
+    {
+      "slug": "insaanimanav-prompt-forge",
+      "entity": "insaaniManav/prompt-forge",
+      "canonical_url": "https://prompt.kymatalabs.com/p/insaanimanav-prompt-forge/",
+      "repository": "https://github.com/insaaniManav/prompt-forge",
+      "summary": "Publisher description of insaaniManav/prompt-forge: AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools. The saved 2026-11-10 catalog classified it under Optimization & Tooling.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Optimization & Tooling work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:39:48.845425+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "18ac05924b188626a6386bd47bac51fdfa8b741d",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/insaaniManav/prompt-forge/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "931738c1d18d9f2efc93f030751fe7ec995d649494a68944daaa87d8021d1466",
+          "blob_sha": "e7d98e92f1a2d942abb86680556be7cf875ad95a"
+        }
+      ]
+    },
+    {
+      "slug": "modelbus-dragonclaw",
+      "entity": "modelbus/dragonclaw",
+      "canonical_url": "https://prompt.kymatalabs.com/p/modelbus-dragonclaw/",
+      "repository": "https://github.com/modelbus/dragonclaw",
+      "summary": "Publisher description of modelbus/dragonclaw: Dragonclaw: Maybe the best openclaw client. Built with Electron+SQLite, it doesn't touch OpenClaw's code but adds multi‑agent, high‑concurrency, DAG workflows. No prompt tuning needed (pre‑optimized). One‑click install with built‑in cloud service (replaceable). The saved 2026-11-10 catalog classified it under Optimization & Tooling.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Optimization & Tooling work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:39:48.845425+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "18ac05924b188626a6386bd47bac51fdfa8b741d",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/modelbus/dragonclaw/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "cde34a0ae90f3525b6bde42b29b4c3c51d4d46e0a2f104a384a17884cb28c07b",
+          "blob_sha": "ea191f1dfd467e38f8186743cec22e58db7d6bab"
+        }
+      ]
+    },
+    {
+      "slug": "piebald-ai-tweakcc",
+      "entity": "Piebald-AI/tweakcc",
+      "canonical_url": "https://prompt.kymatalabs.com/p/piebald-ai-tweakcc/",
+      "repository": "https://github.com/Piebald-AI/tweakcc",
+      "summary": "Publisher description of Piebald-AI/tweakcc: Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more. Supports both native/npm installs on all platforms. The saved 2026-11-10 catalog classified it under System Prompts.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for System Prompts work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-10T16:39:48.845425+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "18ac05924b188626a6386bd47bac51fdfa8b741d",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Piebald-AI/tweakcc/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "41e924d1f384a93252faa889508e6a945dac841c3f71e2e1bbe042c67afbf1a1",
+          "blob_sha": "06624bcb6fb92bc65d5096d59fbf7a89446064f7"
+        }
+      ]
+    },
+    {
+      "slug": "trystan-sa-claude-design-system-prompt",
+      "entity": "Trystan-SA/claude-design-system-prompt",
+      "canonical_url": "https://prompt.kymatalabs.com/p/trystan-sa-claude-design-system-prompt/",
+      "repository": "https://github.com/Trystan-SA/product-engineer-skills",
+      "summary": "Publisher description of Trystan-SA/claude-design-system-prompt: Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator. The saved 2026-11-10 catalog classified it under System Prompts.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for System Prompts work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves Trystan-SA/claude-design-system-prompt to Trystan-SA/product-engineer-skills. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-10T16:39:48.845425+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "18ac05924b188626a6386bd47bac51fdfa8b741d",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Trystan-SA/product-engineer-skills/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "4644a25ffd2a3a520f338f34a463c292ed33bd15e181a5022099bf088e485ada",
+          "blob_sha": "8205f75ad1f5e383e6bf0208d27d0e3bb02fa9b9"
+        }
+      ]
     }
   ],
   "retirements": [],
