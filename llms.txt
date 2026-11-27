@@ -2,7 +2,7 @@
 
 > The Prompt Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-26T18:42:32.906288+00:00
+Snapshot collected: 2026-11-27T18:33:18.004912+00:00
 Current catalog records: 142
 
 ## Sources and interpretation
@@ -22,20 +22,20 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 
 ## Current catalog sample
 
-- [DietrichGebert/ponytail](https://prompt.kymatalabs.com/p/dietrichgebert-ponytail/) — System Prompts
+- [DietrichGebert/ponytail](https://prompt.kymatalabs.com/p/dietrichgebert-ponytail/) — Prompt Packs
 - [f/prompts.chat](https://prompt.kymatalabs.com/p/f-prompts-chat/) — Collections
 - [JuliusBrussee/caveman](https://prompt.kymatalabs.com/p/juliusbrussee-caveman/) — Prompt Packs
 - [JuneYaooo/rea-video](https://prompt.kymatalabs.com/p/juneyaooo-rea-video/) — Image & Multimodal
 - [headroomlabs-ai/headroom](https://prompt.kymatalabs.com/p/headroomlabs-ai-headroom/) — Optimization & Tooling
 - [asgeirtj/system_prompts_leaks](https://prompt.kymatalabs.com/p/asgeirtj-system-prompts-leaks/) — System Prompts
 - [google/elephant-goldfish-model](https://prompt.kymatalabs.com/p/google-elephant-goldfish-model/) — Prompt Packs
-- [blader/humanizer](https://prompt.kymatalabs.com/p/blader-humanizer/) — Prompt Packs
+- [blader/humanizer](https://prompt.kymatalabs.com/p/blader-humanizer/) — System Prompts
 - [linshenkx/prompt-optimizer](https://prompt.kymatalabs.com/p/linshenkx-prompt-optimizer/) — System Prompts
 - [alchaincyf/nuwa-skill](https://prompt.kymatalabs.com/p/alchaincyf-nuwa-skill/) — Prompt Packs
 - [freestylefly/awesome-gpt-image-2](https://prompt.kymatalabs.com/p/freestylefly-awesome-gpt-image-2/) — Image & Multimodal
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://prompt.kymatalabs.com/p/x1xhlol-system-prompts-and-models-of-ai-tools/) — System Prompts
 - [elder-plinius/CL4R1T4S](https://prompt.kymatalabs.com/p/elder-plinius-cl4r1t4s/) — System Prompts
 - [mlflow/mlflow](https://prompt.kymatalabs.com/p/mlflow-mlflow/) — Optimization & Tooling
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://prompt.kymatalabs.com/p/x1xhlol-system-prompts-and-models-of-ai-tools/) — System Prompts
 - [comet-ml/opik](https://prompt.kymatalabs.com/p/comet-ml-opik/) — Optimization & Tooling
 - [AI4Finance-Foundation/FinGPT](https://prompt.kymatalabs.com/p/ai4finance-foundation-fingpt/) — Prompt Packs
 - [dottxt-ai/outlines](https://prompt.kymatalabs.com/p/dottxt-ai-outlines/) — Prompt Packs
@@ -52,16 +52,16 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [ai-boost/awesome-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-prompts/) — Guides & Courses
 - [rockbenben/ChatGPT-Shortcut](https://prompt.kymatalabs.com/p/rockbenben-chatgpt-shortcut/) — Prompt Packs
 - [elder-plinius/L1B3RT4S](https://prompt.kymatalabs.com/p/elder-plinius-l1b3rt4s/) — Prompt Packs
+- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — Prompt Packs
 - [promptslab/Awesome-Prompt-Engineering](https://prompt.kymatalabs.com/p/promptslab-awesome-prompt-engineering/) — Optimization & Tooling
 - [dipakkr/awesome-ai-engineering](https://prompt.kymatalabs.com/p/dipakkr-awesome-ai-engineering/) — Optimization & Tooling
 - [LouisShark/chatgpt_system_prompt](https://prompt.kymatalabs.com/p/louisshark-chatgpt-system-prompt/) — System Prompts
 - [gepa-ai/gepa](https://prompt.kymatalabs.com/p/gepa-ai-gepa/) — Optimization & Tooling
-- [LearnPrompt/awesome-seedance](https://prompt.kymatalabs.com/p/learnprompt-awesome-seedance/) — Image & Multimodal
 - [XiaoyeCodes/code-animation-prompts](https://prompt.kymatalabs.com/p/xiaoyecodes-code-animation-prompts/) — Image & Multimodal
 - [thinkingjimmy/Learning-Prompt](https://prompt.kymatalabs.com/p/thinkingjimmy-learning-prompt/) — Guides & Courses
+- [LearnPrompt/awesome-seedance](https://prompt.kymatalabs.com/p/learnprompt-awesome-seedance/) — Image & Multimodal
 - [nidhinjs/prompt-master](https://prompt.kymatalabs.com/p/nidhinjs-prompt-master/) — Prompt Packs
-- [mufeedvh/code2prompt](https://prompt.kymatalabs.com/p/mufeedvh-code2prompt/) — Prompt Packs
-- [langgptai/awesome-claude-prompts](https://prompt.kymatalabs.com/p/langgptai-awesome-claude-prompts/) — Collections
+- [ai-boost/awesome-image-video-prompts](https://prompt.kymatalabs.com/p/ai-boost-awesome-image-video-prompts/) — Image & Multimodal
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
